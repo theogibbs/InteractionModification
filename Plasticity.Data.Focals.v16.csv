@@ -1,0 +1,901 @@
+#,Treatment,Inducer,Focal,Resident.code,Resident.Density,Pods,MAJOR PROBLEM,Subplot,Focal.Position,Combo,Plot,Resident,Resident.density.level,Initial Resident Seed density (grams per m2) ,Measured.Resident.Density.15cmRadius.June.24,# inducers on May 7 (I hitnk this is how many we left. No Sin is above 7,Height (cm) of Focal June 1,"Phenology of Focals June 1st  (F=Flowering, FB= Flower buds, V= vegetative, P= past flowering)",Phenology of Focal (June 24),,"During final pod count Comments (F=still flowers, G= green)",dry weight focal spp,Final Dry weight of focal,COMMENTS,,treatment.june22,treatment.aug3
+1,0 (Bug),None,Bug,Pap-02,,5,,1-A,1,1-A:1,1,Pap,2,1,24,0,3,V,B,,G,bug,0.103,,,0 (Bug),Bug
+2,,,,Pap-02,,,,1-A,2,1-A:2,1,Pap,2,1,,,,,,,,,,,,EMPTY,EMPTY
+3,Pap (Pap),Pap,Pap,Pap-02,,7,,1-A,3,1-A:3,1,Pap,2,1,22,15,3,V,F,,F,pap,0.711,,,Pap (Pap),Pap
+4,Sin (Sin),Sin,Sin,Pap-02,,15,,1-A,4,1-A:4,1,Pap,2,1,19,5,38,F,P,,,sin,1.072,,,Sin (Sin),Sin
+5,0 (Sil),None,Sil,Pap-02,,20,,1-A,5,1-A:5,1,Pap,2,1,26,0,3,V,B,,,sil,3.038,,,0 (Sil),Sil
+6,Pap (Cen),Pap,Cen,Pap-02,,21,,1-A,6,1-A:6,1,Pap,2,1,27,15,11,V,F,,,cen,1.641,,,Pap (Cen),Cen
+7,Cen (Cen),Cen,Cen,Pap-02,,18,,1-A,7,1-A:7,1,Pap,2,1,13,15,21,FB,F,,,cen,1.321,,,Cen (Cen),Cen
+8,Bug (Bug),Bug,Bug,Pap-02,,21,,1-A,8,1-A:8,1,Pap,2,1,28,7,28,F,P,,,bug,0.464,,,Bug (Bug),Bug
+9,0 (Sil),None,Sil,Pap-02,,0,,1-A,9,1-A:9,1,Pap,2,1,23,0,3,V,B,,G,sil,0.284,,,0 (Sil),Sil
+10,Pap (Sil),Pap,Sil,Pap-02,,0,,1-A,10,1-A:10,1,Pap,2,1,20,15,3,V,R,,G,sil,1.193,,,Pap (Sil),Sil
+11,0 (Pap),None,Pap,Pap-02,,4,,1-A,11,1-A:11,1,Pap,2,1,19,0,3,V,B,,,pap,0.233,,,0 (Pap),Pap
+12,Pap (Sin),Pap,Sin,Pap-02,,57,,1-A,12,1-A:12,1,Pap,2,1,9,15,42,F,P,,,sin,4.153,,,Pap (Sin),Sin
+13,Pap (Bug),Pap,Bug,Pap-02,,26,,1-A,13,1-A:13,1,Pap,2,1,15,9,13.5,F,F,,,bug,0.645,,,Pap (Bug),Bug
+14,0 (Sin),None,Sin,Pap-02,,44,,1-A,14,1-A:14,1,Pap,2,1,17,0,35,F,P,,,sin,2.428,,,0 (Sin),Sin
+15,0 (Cen),None,Cen,Pap-02,,18,,1-A,15,1-A:15,1,Pap,2,1,14,0,14,FB,F,,,cen,0.855,,,0 (Cen),Cen
+16,Sin (Bug),Sin,Bug,Sin-01,,27,,1-B,1,1-B:1,1,Sin,1,1,10,5,13,F,F,,heavy weed impact,bug,0.778,Big weed impact,,Sin (Bug),Bug
+17,,,,Sin-01,,,,1-B,2,1-B:2,1,Sin,1,1,4,0,3,V,R,,WSPP,,,"Wrong species, actually a weed",,0 (Sil),Sil
+18,Sin (Cen),Sin,Cen,Sin-01,,14,,1-B,3,1-B:3,1,Sin,1,1,6,5,8,V,F,,F,cen,0.638,,,Sin (Cen),Cen
+19,0 (Cen),None,Cen,Sin-01,,48,,1-B,4,1-B:4,1,Sin,1,1,15,0,18,FB,F,,,cen,2.519,,,0 (Cen),Cen
+20,Pap (Pap),Pap,Pap,Sin-01,,11,,1-B,5,1-B:5,1,Sin,1,1,5,15+,3.5,V,B,,,pap,1.571,,,Pap (Pap),Pap
+21,Sin (Pap),Sin,Pap,Sin-01,,4,,1-B,6,1-B:6,1,Sin,1,1,9,5,3,V,B,,,pap,0.464,,,Sin (Pap),Pap
+22,Sil (Sil),Sil,Sil,Sin-01,,7,Too Few Inducers,1-B,7,1-B:7,1,Sin,1,1,5,0,3,V,B,,,sil,3.884,Too few inducers,,Sil (Sil),Sil
+23,Bug (Bug),Bug,Bug,Sin-01,,5,,1-B,8,1-B:8,1,Sin,1,1,11,10,13,F,P,,,bug,0.054,,,Bug (Bug),Bug
+24,0 (Bug),None,Bug,Sin-01,,32,,1-B,9,1-B:9,1,Sin,1,1,5,0,6,V,F,,,bug,0.446,,,0 (Bug),Bug
+25,Cen (Cen),Cen,Cen,Sin-01,,46,,1-B,10,1-B:10,1,Sin,1,1,6,15,11,FB,F,,"2 plants obs, but photos show 1",cen,3.104,"2 plants obs, but photos show 1",,Cen (Cen),Cen
+26,,,,Sin-01,,,,1-B,11,1-B:11,1,Sin,1,1,,,,,,,,,,,,EMPTY,EMPTY
+27,0 (Pap),None,Pap,Sin-01,,9,,1-B,12,1-B:12,1,Sin,1,1,12,0,4,V,F,,,pap,0.849,,,0 (Pap),Pap
+28,Sin (Sin),Sin,Sin,Sin-01,,98,,1-B,13,1-B:13,1,Sin,1,1,10,5,41,F,F,,,sin,3.881,,,Sin (Sin),Sin
+29,0 (Sin),None,Sin,Sin-01,,42,,1-B,14,1-B:14,1,Sin,1,1,11,0,43,F,P,,,sin,2.794,,,0 (Sin),Sin
+30,Sin (Sil),Sin,Sil,Sin-01,,24,,1-B,15,1-B:15,1,Sin,1,1,10,5,3.5,V,B,,,sil,10.497,,,Sin (Sil),Sil
+31,Sil (Sin),Sil,Sin,Sil-09,,254,,2-A,1,2-A:1,2,Sil,9,9,48,6,31,F,F,,,sin,11.687,,,Sil (Sin),Sin
+32,Bug (Bug),Bug,Bug,Sil-09,,122,,2-A,2,2-A:2,2,Sil,9,9,46,14,16,FB,F,,G,bug,2.938,,,Bug (Bug),Bug
+33,Sil (Sil),Sil,Sil,Sil-09,,0,,2-A,3,2-A:3,2,Sil,9,9,29,5,5,V,B,,G,sil,0.283,,,Sil (Sil),Sil
+34,Sil (Bug),Sil,Bug,Sil-09,,277,,2-A,4,2-A:4,2,Sil,9,9,53,5,23,F,F,,,bug,6.933,,,Sil (Bug),Bug
+35,Pap (Pap),Pap,Pap,Sil-09,,103,,2-A,5,2-A:5,2,Sil,9,9,34,11,9,V,F,,,pap,14.472,,,Pap (Pap),Pap
+36,0 (Pap),None,Pap,Sil-09,,68,,2-A,6,2-A:6,2,Sil,9,9,20,0,5,V,B,,,pap,16.118,,,0 (Pap),Pap
+37,,,,Sil-09,,,,2-A,7,2-A:7,2,Sil,9,9,,0,,,,,,,,,,FAIL,FAIL
+38,0 (Sil),None,Sil,Sil-09,,0,,2-A,8,2-A:8,2,Sil,9,9,26,0,3.5,V,R,,,sil,0.189,,,0 (Sil),Sil
+39,Cen (Cen),Cen,Cen,Sil-09,,8,,2-A,9,2-A:9,2,Sil,9,9,35,15,15,V,F,,,cen,0.461,,,Cen (Cen),Cen
+40,0 (Pap),None,Pap,Sil-09,,5,Wrong Focal Spp at Dry Weight,2-A,10,2-A:10,2,Sil,9,9,30,0,6,V,F,,,bug,**1.083,Dry weight - had bug as spp ,,0 (Pap),Pap
+41,0 (Cen),None,Cen,Sil-09,,40,,2-A,11,2-A:11,2,Sil,9,9,20,0,17,V,F,,,cen,4.645,,,0 (Cen),Cen
+42,0 (Cen),None,Cen,Sil-09,,18,,2-A,12,2-A:12,2,Sil,9,9,31,0,15,V,F,,,cen,1.734,,,0 (Cen),Cen
+43,,,,Sil-09,,,,2-A,13,2-A:13,2,Sil,9,9,,,,,,,,,,,,EMPTY,EMPTY
+44,Sin (Sin),Sin,Sin,Sil-09,,866,,2-A,14,2-A:14,2,Sil,9,9,27,5,53,F,F,,,sin,43.769,,,Sin (Sin),Sin
+45,,,,Sil-09,,,,2-A,15,2-A:15,2,Sil,9,9,,,,,,,,,,,,FAIL,FAIL
+46,Cen (Bug),Cen,Bug,Cen-09,,8,,2-B,1,2-B:1,2,Cen,9,9,36,15,24,F,P,,,bug,0.128,,,Cen (Bug),Bug
+47,0 (Sil),None,Sil,Cen-09,,0,,2-B,2,2-B:2,2,Cen,9,9,17,0,5,V,R,,G,sil,1.209,,,0 (Sil),Sil
+48,,,,Cen-09,,,,2-B,3,2-B:3,2,Cen,9,9,,,,,,,,,,,,FAIL,FAIL
+49,Cen (Cen),Cen,Cen,Cen-09,,3,,2-B,4,2-B:4,2,Cen,9,9,51,15,19,V,F,,,cen,0.176,,,Cen (Cen),Cen
+50,Sin (Sin),Sin,Sin,Cen-09,,4,,2-B,5,2-B:5,2,Cen,9,9,23,5,30,F,P,,,sin,0.143,,,Sin (Sin),Sin
+51,,,,Cen-09,,,,2-B,6,2-B:6,2,Cen,9,9,,,,,,,,,,,,FAIL,FAIL
+52,Cen (Pap),Cen,Pap,Cen-09,,0,,2-B,7,2-B:7,2,Cen,9,9,45,15,2.5,V,F DEAD,,,,,Died after flowering,,Cen (Pap),Pap dead
+53,Bug (Bug),Bug,Bug,Cen-09,,14,,2-B,8,2-B:8,2,Cen,9,9,29,14,27,F,P,,,bug,0.285,,,Bug (Bug),Bug
+54,Cen (Sin),Cen,Sin,Cen-09,,13,,2-B,9,2-B:9,2,Cen,9,9,45,15,21,F,P,,,sin,0.509,,,Cen (Sin),Sin
+55,Pap (Pap),Pap,Pap,Cen-09,,2,,2-B,10,2-B:10,2,Cen,9,9,28,15,5,V,F,,,pap,0.036,,,Pap (Pap),Pap
+56,0 (Pap),None,Pap,Cen-09,,2,,2-B,11,2-B:11,2,Cen,9,9,39,0,6,V,F,,,pap,0.153,,,0 (Pap),Pap
+57,,,,Cen-09,,,,2-B,12,2-B:12,2,Cen,9,9,,,,,,,,,,,,EMPTY,EMPTY
+58,0 (Sin),None,Sin,Cen-09,,181,,2-B,13,2-B:13,2,Cen,9,9,32,0,41,F,P,,,sin,7.492,,,0 (Sin),Sin
+59,Cen (Sil),Cen,Sil,Cen-09,,0,,2-B,14,2-B:14,2,Cen,9,9,55,15,3,V,R,,G,sil,1.768,,,Cen (Sil),Sil
+60,0 (Cen),None,Cen,Cen-09,,25,,2-B,15,2-B:15,2,Cen,9,9,30,0,9,V,F,,,cen,0.839,,,0 (Cen),Cen
+61,Sin (Sil),Sin,Sil,Sin-09,,5,,3-A,1,3-A:1,3,Sin,9,9,105,5,2.5,V,B,,,sil,6.631,,,Sin (Sil),Sil
+62,Sin (Cen),Sin,Cen,Sin-09,,5,,3-A,2,3-A:2,3,Sin,9,9,94,5,7,V,F,,,cen,0.132,,,Sin (Cen),Cen
+63,0 (Sil),None,Sil,Sin-09,,0,,3-A,3,3-A:3,3,Sin,9,9,78,0,1,V,R,,G,sil,1.747,,,0 (Sil),Sil
+64,0 (Cen),None,Cen,Sin-09,,12,,3-A,4,3-A:4,3,Sin,9,9,105,0,13,V,F,,,cen,0.665,,,0 (Cen),Cen
+65,Cen (Cen),Cen,Cen,Sin-09,,14,,3-A,5,3-A:5,3,Sin,9,9,92,13,13,FB,F,,,cen,0.56,,,Cen (Cen),Cen
+66,0 (Bug),None,Bug,Sin-09,,38,,3-A,6,3-A:6,3,Sin,9,9,60,0,12,F,F,,,bug,0.412,,,0 (Bug),Bug
+67,Sin (Sin),Sin,Sin,Sin-09,,162,,3-A,7,3-A:7,3,Sin,9,9,82,5,26,F,P,,,sin,2.387,,,Sin (Sin),Sin
+68,0 (Sin),None,Sin,Sin-09,,7,,3-A,8,3-A:8,3,Sin,9,9,97,0,29,F,P,,,sin,0.146,,,0 (Sin),Sin
+69,Bug (Bug),Bug,Bug,Sin-09,,2,,3-A,9,3-A:9,3,Sin,9,9,66,13,2,V,F,,,bug,0.057,,,Bug (Bug),Bug
+70,Pap (Pap),Pap,Pap,Sin-09,,0,,3-A,10,3-A:10,3,Sin,9,9,62,15,3,V,B,,G,pap,0.19,,,Pap (Pap),Pap
+71,,,,Sin-09,,,,3-A,11,3-A:11,3,Sin,9,9,,,,,,,,,,,,EMPTY,EMPTY
+72,Sin (Bug),Sin,Bug,Sin-09,,7,,3-A,12,3-A:12,3,Sin,9,9,51,5,10,F,P,,,bug,0.084,,,Sin (Bug),Bug
+73,0 (Pap),None,Pap,Sin-09,,12,,3-A,13,3-A:13,3,Sin,9,9,88,0,5,V,F,,,pap,1.07,,,0 (Pap),Pap
+74,Sil (Sil),Sil,Sil,Sin-09,,0,,3-A,14,3-A:14,3,Sin,9,9,102,6,1.5,V,R,,G,sil,1.293,,,Sil (Sil),Sil
+75,Sin (Pap),Sin,Pap,Sin-09,,2,,3-A,15,3-A:15,3,Sin,9,9,48,5,1,V,B,,,pap,0.035,,,Sin (Pap),Pap
+76,Bug (Bug),Bug,Bug,Pap-09,,5,,3-B,1,3-B:1,3,Pap,9,4.5,75,9,13,F,F,,,bug,0.041,,,Bug (Bug),Bug
+77,Pap (Bug),Pap,Bug,Pap-09,,3,,3-B,2,3-B:2,3,Pap,9,4.5,75,15+,4,V,F,,,bug,0.041,,,Pap (Bug),Bug
+78,,,,Pap-09,,,,3-B,3,3-B:3,3,Pap,9,4.5,,,,,,,,,,,,FAIL,FAIL
+79,0 (Sil),None,Sil,Pap-09,,6,,3-B,4,3-B:4,3,Pap,9,4.5,56,0,4,V,B,,,sil,5.469,,,0 (Sil),Sil
+80,0 (Pap),None,Pap,Pap-09,,22,,3-B,5,3-B:5,3,Pap,9,4.5,37,0,5,V,F,,,pap,2.52,,,0 (Pap),Pap
+81,,,,Pap-09,,,,3-B,6,3-B:6,3,Pap,9,4.5,,,,,,,,,,,,EMPTY,EMPTY
+82,Pap (Sin),Pap,Sin,Pap-09,,19,,3-B,7,3-B:7,3,Pap,9,4.5,88,15,14,F,P,,,sin,0.722,,,Pap (Sin),Sin
+83,Pap (Sil),Pap,Sil,Pap-09,,0,,3-B,8,3-B:8,3,Pap,9,4.5,63,15,2,V,R,,G,sil,0.939,,,Pap (Sil),Sil
+84,Pap (Cen),Pap,Cen,Pap-09,,22,,3-B,9,3-B:9,3,Pap,9,4.5,93,15,13,FB,F,,,cen,1.066,,,Pap (Cen),Cen
+85,0 (Bug),None,Bug,Pap-09,,26,,3-B,10,3-B:10,3,Pap,9,4.5,67,0,12,F,F,,,bug,0.502,,,0 (Bug),Bug
+86,Pap (Pap),Pap,Pap,Pap-09,,3,,3-B,11,3-B:11,3,Pap,9,4.5,94,13,4,V,F,,,pap,0.389,,,Pap (Pap),Pap
+87,Sin (Sin),Sin,Sin,Pap-09,,456,,3-B,12,3-B:12,3,Pap,9,4.5,83,5,49,F,F,,,sin,19.45,,,Sin (Sin),Sin
+88,Cen (Cen),Cen,Cen,Pap-09,,10,,3-B,13,3-B:13,3,Pap,9,4.5,50,15,13,FB,F,,,cen,0.451,,,Cen (Cen),Cen
+89,0 (Sin),None,Sin,Pap-09,,274,,3-B,14,3-B:14,3,Pap,9,4.5,36,0,40,F,F,,,sin,11.313,,,0 (Sin),Sin
+90,0 (Cen),None,Cen,Pap-09,,19,,3-B,15,3-B:15,3,Pap,9,4.5,65,0,13,FB,F,,,cen,1.247,,,0 (Cen),Cen
+91,,,,Sil-10,,,,4-A,1,4-A:1,4,Sil,10,10,,,,,,,,,,,,EMPTY,EMPTY
+92,Sil (Sil),Sil,Sil,Sil-10,,5,,4-A,2,4-A:2,4,Sil,10,10,18,5,5,V,R,,,sil,1.35,,,Sil (Sil),Sil
+93,0 (Cen),None,Cen,Sil-10,,8,,4-A,3,4-A:3,4,Sil,10,10,29,0,7,V,B,,,cen,0.336,,,0 (Cen),Cen
+94,Sil (Cen),Sil,Cen,Sil-10,,17,,4-A,4,4-A:4,4,Sil,10,10,26,6,10,V,F,,,cen,0.966,,,Sil (Cen),Cen
+95,0 (Bug),None,Bug,Sil-10,,72,,4-A,5,4-A:5,4,Sil,10,10,18,0,13,F,F,,,bug,0.825,,,0 (Bug),Bug
+96,0 (Pap),None,Pap,Sil-10,,3,,4-A,6,4-A:6,4,Sil,10,10,19,0,5,V,F,,,pap,0.168,,,0 (Pap),Pap
+97,Sin (Sin),Sin,Sin,Sil-10,,407,,4-A,7,4-A:7,4,Sil,10,10,37,5,36,F,F,,,sin,17.968,,,Sin (Sin),Sin
+98,Cen (Cen),Cen,Cen,Sil-10,,29,,4-A,8,4-A:8,4,Sil,10,10,23,15,11,V,F,,,cen,2.699,,,Cen (Cen),Cen
+99,Sil (Pap),Sil,Pap,Sil-10,,3,,4-A,9,4-A:9,4,Sil,10,10,20,6,4,V,B,,,pap,0.192,,,Sil (Pap),Pap
+100,,,,Sil-10,,,,4-A,10,4-A:10,4,Sil,10,10,27,6,21,F,F,,,,,Missing plant. Heatly in June but gone at harvest,,Bug (Bug),Bug
+101,0 (Sin),None,Sin,Sil-10,,191,,4-A,11,4-A:11,4,Sil,10,10,25,0,34,F,F,,,sin,6.864,,,0 (Sin),Sin
+102,0 (Sin),None,Sin,Sil-10,,82,,4-A,12,4-A:12,4,Sil,10,10,15,0,45,F,P,,,sin,4.125,,,0 (Sin),Sin
+103,Sil (Bug),Sil,Bug,Sil-10,,62,,4-A,13,4-A:13,4,Sil,10,10,22,5,13,F,F,,,bug,0.93,,,Sil (Bug),Bug
+104,Pap (Pap),Pap,Pap,Sil-10,,20,,4-A,14,4-A:14,4,Sil,10,10,24,15,9,V,F,,,pap,3.607,,,Pap (Pap),Pap
+105,0 (Sil),None,Sil,Sil-10,,0,,4-A,15,4-A:15,4,Sil,10,10,21,0,6,V,R,,G,sil,0.517,,,0 (Sil),Sil
+106,Pap (Pap),Pap,Pap,Sin-10,,1,,4-B,1,4-B:1,4,Sin,10,10,75,15,2.5,V,B,,,pap,0.015,,,Pap (Pap),Pap
+107,0 (Cen),None,Cen,Sin-10,,11,,4-B,2,4-B:2,4,Sin,10,10,77,0,6,V,B,,,cen,0.501,,,0 (Cen),Cen
+108,Sin (Bug),Sin,Bug,Sin-10,,5,,4-B,3,4-B:3,4,Sin,10,10,77,5,4,V,F,,,bug,0.071,,,Sin (Bug),Bug
+109,Sin (Pap),Sin,Pap,Sin-10,,0,,4-B,4,4-B:4,4,Sin,10,10,55,5,2.5,V,R,,F,,,,,Sin (Pap),Pap
+110,,,,Sin-10,,,,4-B,5,4-B:5,4,Sin,10,10,,,,,,,,,,,,EMPTY,EMPTY
+111,Bug (Bug),Bug,Bug,Sin-10,,1,,4-B,6,4-B:6,4,Sin,10,10,80,10,20,F,P,,,bug,0.017,,,Bug (Bug),Bug
+112,Sil (Sil),Sil,Sil,Sin-10,,0,,4-B,7,4-B:7,4,Sin,10,10,55,5,2,V,R,,G,sil,1.02,,,Sil (Sil),Sil
+113,0 (Sin),None,Sin,Sin-10,,323,,4-B,8,4-B:8,4,Sin,10,10,56,0,16,F,P,,,sin,9.779,We think it is the correct focal. ,,0 (Sin),Sin
+114,Sin (Cen),Sin,Cen,Sin-10,,3,,4-B,9,4-B:9,4,Sin,10,10,74,5,8,V,F,,,cen,0.109,,,Sin (Cen),Cen
+115,Sin (Sin),Sin,Sin,Sin-10,,3,,4-B,10,4-B:10,4,Sin,10,10,46,5,18,F,P,,,sin,0.137,,,Sin (Sin),Sin
+116,0 (Bug),None,Bug,Sin-10,,20,,4-B,11,4-B:11,4,Sin,10,10,72,0,4,V,F,,,bug,0.259,,,0 (Bug),Bug
+117,0 (Pap),None,Pap,Sin-10,,2,,4-B,12,4-B:12,4,Sin,10,10,87,0,2,V,B,,,pap,0.035,,,0 (Pap),Pap
+118,Cen (Cen),Cen,Cen,Sin-10,,3,,4-B,13,4-B:13,4,Sin,10,10,83,15,5,V,B,,,cen,0.105,,,Cen (Cen),Cen
+119,Sin (Sin),Sin,Sin,Sin-10,,2,,4-B,14,4-B:14,4,Sin,10,10,73,5,16,F,P,,,sin,0.013,,,Sin (Sin),Sin
+120,0 (Sil),None,Sil,Sin-10,,0,,4-B,15,4-B:15,4,Sin,10,10,55,0,4,V,R,,G,sil,8.003,,,0 (Sil),Sil
+121,Bug (Bug),Bug,Bug,None-03,,14,,5-A,1,5-A:1,5,None,0,0,0,15,21,F,F,,,bug,0.232,,,Bug (Bug),Bug
+122,0 (Pap),None,Pap,None-03,,11,,5-A,2,5-A:2,5,None,0,0,0,0,6,V,B,,,pap,6.492,,,0 (Pap),Pap
+123,0 (Pap),None,Pap,None-03,,22,,5-A,3,5-A:3,5,None,0,0,0,0,5,V,B,,,pap,4.658,,,0 (Pap),Pap
+124,0 (Sin),None,Sin,None-03,,412,,5-A,4,5-A:4,5,None,0,0,0,0,35,F,F,,,sin,26.611,,,0 (Sin),Sin
+125,Pap (Sin),Pap,Sin,None-03,,499,,5-A,5,5-A:5,5,None,0,0,0,15,34,F,F,,,sin,19.231,,,Pap (Sin),Sin
+126,0 (Bug),None,Bug,None-03,,211,,5-A,6,5-A:6,5,None,0,0,0,0,10,F,F,,,bug,4.67,,,0 (Bug),Bug
+127,Pap (Cen),Pap,Cen,None-03,,36,,5-A,7,5-A:7,5,None,0,0,0,15,12,V,F,,,cen,2.461,,,Pap (Cen),Cen
+128,Bug (Bug),Bug,Bug,None-03,,97,,5-A,8,5-A:8,5,None,0,0,0,11,19,F,F,,,bug,2.003,,,Bug (Bug),Bug
+129,Sin (Sin),Sin,Sin,None-03,,226,,5-A,9,5-A:9,5,None,0,0,0,5,40,F,F,,,sin,7.326,,,Sin (Sin),Sin
+130,Cen (Pap),Cen,Pap,None-03,,56,,5-A,10,5-A:10,5,None,0,0,0,3,4,V,F,,,pap,8.265,,,Cen (Pap),Pap
+131,Sin (Pap),Sin,Pap,None-03,,54,,5-A,11,5-A:11,5,None,0,0,0,5,4,V,B,,,pap,12.25,,,Sin (Pap),Pap
+132,,,,None-03,,,,5-A,12,5-A:12,5,None,0,0,,0,,,,,,,,,,FAIL,FAIL
+133,Sil (Sil),Sil,Sil,None-03,,18,,5-A,13,5-A:13,5,None,0,0,0,11,6,V,V,,F,sil,7.216,,,Sil (Sil),Sil
+134,Sin (Sin),Sin,Sin,None-03,,143,,5-A,14,5-A:14,5,None,0,0,0,5,39,F,F,,,sin,6.1,,,Sin (Sin),Sin
+135,0 (Bug),None,Bug,None-03,,358,,5-A,15,5-A:15,5,None,0,0,0,0,18,F,F,,,bug,5.025,,,0 (Bug),Bug
+136,0 (Sil),None,Sil,None-03,,25,,5-B,1,5-B:1,5,None,0,0,0,0,2,V,V,,,sil,8.104,,,0 (Sil),Sil
+137,Sil (Cen),Sil,Cen,None-03,,191,,5-B,2,5-B:2,5,None,0,0,0,12,30,FB,F,,,cen,17.134,,,Sil (Cen),Cen
+138,Cen (Cen),Cen,Cen,None-03,,33,,5-B,3,5-B:3,5,None,0,0,0,15,18,V,F,,,cen,3.056,,,Cen (Cen),Cen
+139,0 (Pap),None,Pap,None-03,,36,,5-B,4,5-B:4,5,None,0,0,0,0,7,V,F,,,pap,9.501,,,0 (Pap),Pap
+140,Pap (Pap),Pap,Pap,None-03,,11,,5-B,5,5-B:5,5,None,0,0,0,15,5,V,B,,,pap,1.239,,,Pap (Pap),Pap
+141,Cen (Sil),Cen,Sil,None-03,,30,,5-B,6,5-B:6,5,None,0,0,0,15,3,V,V,,F,sil,3.048,,,Cen (Sil),Sil
+142,Cen (Bug),Cen,Bug,None-03,,154,,5-B,7,5-B:7,5,None,0,0,0,15,25,F,F,,,bug,3.592,,,Cen (Bug),Bug
+143,Pap (Bug),Pap,Bug,None-03,,332,,5-B,8,5-B:8,5,None,0,0,0,15,20,F,F,,,bug,4.273,,,Pap (Bug),Bug
+144,Bug (Sin),Bug,Sin,None-03,,314,,5-B,9,5-B:9,5,None,0,0,0,15,25,F,F,,,sin,10.123,,,Bug (Sin),Sin
+145,Sin (Cen),Sin,Cen,None-03,,63,,5-B,10,5-B:10,5,None,0,0,0,5,12,V,F,,,cen,4.116,,,Sin (Cen),Cen
+146,Pap (Pap),Pap,Pap,None-03,,12,,5-B,11,5-B:11,5,None,0,0,0,15,5,V,F,,,pap,2.186,,,Pap (Pap),Pap
+147,Sin (Bug),Sin,Bug,None-03,,283,,5-B,12,5-B:12,5,None,0,0,0,5,5,V,F,,,bug,5.61,,,Sin (Bug),Bug
+148,0 (Sin),None,Sin,None-03,,490,,5-B,13,5-B:13,5,None,0,0,0,5,47,F,F,,,sin,21.91,,,0 (Sin),Sin
+149,,,,None-03,,,,5-B,14,5-B:14,5,None,0,0,,0,,,,,,,,,,FAIL,FAIL
+150,Cen (Sin),Cen,Sin,None-03,,277,,5-B,15,5-B:15,5,None,0,0,0,15,41,F,F,,,sin,7.701,,,Cen (Sin),Sin
+151,0 (Bug),None,Bug,Bug-02,,46,,6-A,1,6-A:1,6,Bug,2,2,7,0,9,F,F,,,bug,0.777,,,0 (Bug),Bug
+152,Cen (Cen),Cen,Cen,Bug-02,,7,,6-A,2,6-A:2,6,Bug,2,2,4,12,11,V,F,,,cen,0.443,,,Cen (Cen),Cen
+153,0 (Sil),None,Sil,Bug-02,,5,,6-A,3,6-A:3,6,Bug,2,2,8,0,5,V,V,,,sil,3.344,,,0 (Sil),Sil
+154,0 (Sin),None,Sin,Bug-02,,535,,6-A,4,6-A:4,6,Bug,2,2,3,0,22,F,F,,,sin,24.452,,,0 (Sin),Sin
+155,Pap (Pap),Pap,Pap,Bug-02,,8,,6-A,5,6-A:5,6,Bug,2,2,2,12,5.5,V,F,,,pap,0.903,,,Pap (Pap),Pap
+156,0 (Bug),None,Bug,Bug-02,,236,,6-A,6,6-A:6,6,Bug,2,2,5,0,13.5,F,F,,,bug,4.013,,,0 (Bug),Bug
+157,,,,Bug-02,,,,6-A,7,6-A:7,6,Bug,2,2,,,,,,,,,,,,EMPTY,EMPTY
+158,0 (Cen),None,Cen,Bug-02,,28,,6-A,8,6-A:8,6,Bug,2,2,3,0,10,V,F,,,cen,2.349,,,0 (Cen),Cen
+159,Bug (Sin),Bug,Sin,Bug-02,,282,,6-A,9,6-A:9,6,Bug,2,2,1,4,10,FB,F,,,sin,27.44,,,Bug (Sin),Sin
+160,Sin (Sin),Sin,Sin,Bug-02,,104,,6-A,10,6-A:10,6,Bug,2,2,2,5,29,F,F,,,sin,5.563,,,Sin (Sin),Sin
+161,Bug (Cen),Bug,Cen,Bug-02,,32,,6-A,11,6-A:11,6,Bug,2,2,3,3,9.5,V,F,,,cen,2.632,,,Bug (Cen),Cen
+162,,,,Bug-02,,,,6-A,12,6-A:12,6,Bug,2,2,,,,,,,,,,,,FAIL,FAIL
+163,0 (Pap),None,Pap,Bug-02,,7,,6-A,13,6-A:13,6,Bug,2,2,5,0,4.5,V,F,,,pap,1.024,,,0 (Pap),Pap
+164,Bug (Bug),Bug,Bug,Bug-02,,31,,6-A,14,6-A:14,6,Bug,2,2,4,0,9,F,F,,,bug,0.321,,,Bug (Bug),Bug
+165,,,,Bug-02,,,,6-A,15,6-A:15,6,Bug,2,2,5,12,4,V,,,,,,"Excluding, it is most likely a 2nd cohort of pap that ends up being very small. ",,Bug (Sil),Pap
+166,Bug (Bug),Bug,Bug,Sil-02,,41,,6-B,1,6-B:1,6,Sil,2,2,5,14,8.5,V,F,,,bug,0.496,,,Bug (Bug),Bug
+167,0 (Sil),None,Sil,Sil-02,,0,,6-B,2,6-B:2,6,Sil,2,2,4,0,3,V,B,,,sil,3.686,,,0 (Sil),Sil
+168,Sin (Sin),Sin,Sin,Sil-02,,8,,6-B,3,6-B:3,6,Sil,2,2,8,4,26,F,P,,,sin,0.253,,,Sin (Sin),Sin
+169,,,,Sil-02,,,,6-B,4,6-B:4,6,Sil,2,2,,,,,,,,,,,,EMPTY,EMPTY
+170,Sil (Cen),Sil,Cen,Sil-02,,22,,6-B,5,6-B:5,6,Sil,2,2,6,6,5,V,B,,,cen,1.712,,,Sil (Cen),Cen
+171,Sil (Pap),Sil,Pap,Sil-02,,10,,6-B,6,6-B:6,6,Sil,2,2,10,6,4,V,B,,,pap,3.161,,,Sil (Pap),Pap
+172,0 (Cen),None,Cen,Sil-02,,51,,6-B,7,6-B:7,6,Sil,2,2,3,0,16,FB,F,,,cen,3.282,,,0 (Cen),Cen
+173,Sil (Sin),Sil,Sin,Sil-02,,75,,6-B,8,6-B:8,6,Sil,2,2,4,5,24,F,F,,,sin,4.724,,,Sil (Sin),Sin
+174,Pap (Pap),Pap,Pap,Sil-02,,5,,6-B,9,6-B:9,6,Sil,2,2,14,15,4,V,F,,,pap,0.833,,,Pap (Pap),Pap
+175,0 (Bug),None,Bug,Sil-02,,265,,6-B,10,6-B:10,6,Sil,2,2,1,0,20,F,F,,,bug,4.754,,,0 (Bug),Bug
+176,Sil (Sil),Sil,Sil,Sil-02,,0,,6-B,11,6-B:11,6,Sil,2,2,2,4,4,V,V,,,sil,2.371,,,Sil (Sil),Sil
+177,0 (Bug),None,Bug,Sil-02,,12,,6-B,12,6-B:12,6,Sil,2,2,12,0,14,F,P,,,bug,0.13,,,0 (Bug),Bug
+178,Cen (Cen),Cen,Cen,Sil-02,,25,,6-B,13,6-B:13,6,Sil,2,2,9,12,11,V,F,,,cen,1.786,,,Cen (Cen),Cen
+179,0 (Sin),None,Sin,Sil-02,,482,,6-B,14,6-B:14,6,Sil,2,2,12,0,28.5,F,P,,,sin,27.219,,,0 (Sin),Sin
+180,0 (Pap),None,Pap,Sil-02,,2,,6-B,15,6-B:15,6,Sil,2,2,13,0,4,V,F,,,pap,0.16,,,0 (Pap),Pap
+181,Cen (Sil),Cen,Sil,Cen-03,,7,,7-A,1,7-A:1,7,Cen,3,3,10,15,3,V,R,,,sil,2.104,,,Cen (Sil),Sil
+182,Sil (Sil),Sil,Sil,Cen-03,,0,,7-A,2,7-A:2,7,Cen,3,3,10,11,5,V,R,,G,sil,1.555,,,Sil (Sil),Sil
+183,Cen (Pap),Cen,Pap,Cen-03,,0,,7-A,3,7-A:3,7,Cen,3,3,10,15,4,V,P DEAD,,,,,Died after induction,,Cen (Pap),Pap dead
+184,,,,Cen-03,,,,7-A,4,7-A:4,7,Cen,3,3,,,,,,,,,,,,FAIL,FAIL
+185,Sin (Sin),Sin,Sin,Cen-03,,19,,7-A,5,7-A:5,7,Cen,3,3,10,5,51,F,P,,,sin,0.996,,,Sin (Sin),Sin
+186,0 (Cen),None,Cen,Cen-03,,10,,7-A,6,7-A:6,7,Cen,3,3,12,0,13,V,F,,,cen,1.102,,,0 (Cen),Cen
+187,0 (Pap),None,Pap,Cen-03,,2,,7-A,7,7-A:7,7,Cen,3,3,20,0,5,V,F,,,pap,0.169,,,0 (Pap),Pap
+188,Pap (Pap),Pap,Pap,Cen-03,,1,,7-A,8,7-A:8,7,Cen,3,3,20,14,4,V,P,,,pap,0.047,,,Pap (Pap),Pap
+189,,,,Cen-03,,,,7-A,9,7-A:9,7,Cen,3,3,,,,,,,,,,,,EMPTY,EMPTY
+190,Cen (Bug),Cen,Bug,Cen-03,,2,,7-A,10,7-A:10,7,Cen,3,3,14,11,5,V,F,,,bug,0.068,,,Cen (Bug),Bug
+191,Cen (Cen),Cen,Cen,Cen-03,,17,,7-A,11,7-A:11,7,Cen,3,3,16,12,12,V,F,,,cen,1.663,,,Cen (Cen),Cen
+192,Bug (Bug),Bug,Bug,Cen-03,,52,,7-A,12,7-A:12,7,Cen,3,3,10,4,22,F,F,,,bug,1.255,,,Bug (Bug),Bug
+193,Cen (Sin),Cen,Sin,Cen-03,,38,,7-A,13,7-A:13,7,Cen,3,3,21,15,42,F,P,,,sin,2.36,,,Cen (Sin),Sin
+194,0 (Sin),None,Sin,Cen-03,,147,,7-A,14,7-A:14,7,Cen,3,3,12,0,41,F,B,,,sin,6.213,,,0 (Sin),Sin
+195,,,,Cen-03,,,,7-A,15,7-A:15,7,Cen,3,3,,,,,,,,,,,,FAIL,FAIL
+196,,,,Bug-03,,,,7-B,1,7-B:1,7,Bug,3,3,,,,,,,,,,,,FAIL,FAIL
+197,Bug (Sin),Bug,Sin,Bug-03,,102,,7-B,2,7-B:2,7,Bug,3,3,7,7,39,F,P,,,sin,5.916,,,Bug (Sin),Sin
+198,,,,Bug-03,,,,7-B,3,7-B:3,7,Bug,3,3,,,,,,,,,,,,EMPTY,EMPTY
+199,0 (Sin),None,Sin,Bug-03,,182,,7-B,4,7-B:4,7,Bug,3,3,5,0,45,F,P,,,sin,10.066,,,0 (Sin),Sin
+200,Sin (Sin),Sin,Sin,Bug-03,,136,,7-B,5,7-B:5,7,Bug,3,3,4,5,54,F,F,,,sin,5.153,,,Sin (Sin),Sin
+201,Bug (Bug),Bug,Bug,Bug-03,,37,,7-B,6,7-B:6,7,Bug,3,3,7,13,30,F,F,,,bug,0.749,,,Bug (Bug),Bug
+202,0 (Pap),None,Pap,Bug-03,,7,,7-B,7,7-B:7,7,Bug,3,3,4,0,7,V,F,,,pap,1.314,,,0 (Pap),Pap
+203,Sil (Sil),Sil,Sil,Bug-03,,0,,7-B,8,7-B:8,7,Bug,3,3,4,15,2,V,R,,G,sil,0.914,,,Sil (Sil),Sil
+204,0 (Bug),None,Bug,Bug-03,,84,,7-B,9,7-B:9,7,Bug,3,3,6,0,26,F,F,,,bug,2.627,,,0 (Bug),Bug
+205,Bug (Pap),Bug,Pap,Bug-03,,22,,7-B,10,7-B:10,7,Bug,3,3,8,5,6.5,V,F,,,pap,4.014,,,Bug (Pap),Pap
+206,Pap (Pap),Pap,Pap,Bug-03,,148,,7-B,11,7-B:11,7,Bug,3,3,5,15,6,V,F,,,pap,5.308,,,Pap (Pap),Pap
+207,Cen (Cen),Cen,Cen,Bug-03,,72,,7-B,12,7-B:12,7,Bug,3,3,5,15,24,FB,F,,,cen,6.58,,,Cen (Cen),Cen
+208,,,,Bug-03,,,,7-B,13,7-B:13,7,Bug,3,3,,,,,,,,,,,,FAIL,FAIL
+209,Bug (Cen),Bug,Cen,Bug-03,,31,,7-B,14,7-B:14,7,Bug,3,3,7,15,5,V,F,,,cen,1.914,,,Bug (Cen),Cen
+210,0 (Cen),None,Cen,Bug-03,,21,,7-B,15,7-B:15,7,Bug,3,3,16,0,10,V,F,,,cen,1.162,,,0 (Cen),Cen
+211,Bug (Pap),Bug,Pap,Bug-08,,12,,8-A,1,8-A:1,8,Bug,8,8,21,15,6,V,F,,,pap,1.513,,,Bug (Pap),Pap
+212,0 (Cen),None,Cen,Bug-08,,15,,8-A,2,8-A:2,8,Bug,8,8,18,0,5,V,F,,,cen,0.676,,,0 (Cen),Cen
+213,Bug (Sin),Bug,Sin,Bug-08,,26,,8-A,3,8-A:3,8,Bug,8,8,19,13,34,F,P,,,sin,1.646,,,Bug (Sin),Sin
+214,Sin (Sin),Sin,Sin,Bug-08,,103,,8-A,4,8-A:4,8,Bug,8,8,21,5,38,F,F,,,sin,4.603,,,Sin (Sin),Sin
+215,Pap (Pap),Pap,Pap,Bug-08,,1,,8-A,5,8-A:5,8,Bug,8,8,15,15+,3.5,V,P,,heavy weed impact,pap,0.033,heavy weed impact,,Pap (Pap),Pap
+216,Sil (Sil),Sil,Sil,Bug-08,,0,,8-A,6,8-A:6,8,Bug,8,8,14,11,3,V,R,,G,sil,0.628,,,Sil (Sil),Sil
+217,Bug (Bug),Bug,Bug,Bug-08,,4,,8-A,7,8-A:7,8,Bug,8,8,26,15,12,F,P,,,bug,0.051,,,Bug (Bug),Bug
+218,Cen (Cen),Cen,Cen,Bug-08,,5,,8-A,8,8-A:8,8,Bug,8,8,21,15,7,V,F,,,cen,0.196,,,Cen (Cen),Cen
+219,0 (Sin),None,Sin,Bug-08,,207,,8-A,9,8-A:9,8,Bug,8,8,16,0,46,F,P,,,sin,11.822,,,0 (Sin),Sin
+220,0 (Bug),None,Bug,Bug-08,,49,,8-A,10,8-A:10,8,Bug,8,8,18,0,22,F,F,,,bug,0.869,,,0 (Bug),Bug
+221,0 (Pap),None,Pap,Bug-08,,1,Wrong Focal Spp at Dry Weight,8-A,11,8-A:11,8,Bug,8,8,13,0,2,V,B,,heavy weed influence,bug,**0.045,Dry weight bag says bug,,0 (Pap),Pap
+222,0 (Sil),None,Sil,Bug-08,,6,,8-A,12,8-A:12,8,Bug,8,8,13,0,3,V,B,,,sil,3.147,,,0 (Sil),Sil
+223,,,,Bug-08,,,,8-A,13,8-A:13,8,Bug,8,8,,,,,,,,,,,,EMPTY,EMPTY
+224,,,,Bug-08,,,,8-A,14,8-A:14,8,Bug,8,8,,12,3,V,,,,,,"Missing plant, was present earlier",,0 (Sil),Sil
+225,Bug (Cen),Bug,Cen,Bug-08,,33,,8-A,15,8-A:15,8,Bug,8,8,17,7,10.5,V,F,,,cen,1.703,,,Bug (Cen),Cen
+226,0 (Sin),None,Sin,Pap-08,,514,,8-B,1,8-B:1,8,Pap,8,4,50,0,43.5,F,P,,,sin,32.325,,,0 (Sin),Sin
+227,Cen (Cen),Cen,Cen,Pap-08,,8,,8-B,2,8-B:2,8,Pap,8,4,48,15,5.5,V,F,,,cen,0.248,,,Cen (Cen),Cen
+228,Pap (Cen),Pap,Cen,Pap-08,,27,,8-B,3,8-B:3,8,Pap,8,4,59,15,8,V,F,,,cen,1.946,,,Pap (Cen),Cen
+229,,,,Pap-08,,,,8-B,4,8-B:4,8,Pap,8,4,,,,,,,,,,,,FAIL,FAIL
+230,,,,Pap-08,,,,8-B,5,8-B:5,8,Pap,8,4,,,,,,,,,,,,FAIL,FAIL
+231,Sin (Sin),Sin,Sin,Pap-08,,10,,8-B,6,8-B:6,8,Pap,8,4,59,5,37,F,P,,,sin,0.57,,,Sin (Sin),Sin
+232,Pap (Sin),Pap,Sin,Pap-08,,150,,8-B,7,8-B:7,8,Pap,8,4,45,15,44.5,F,P,,,sin,9.178,,,Pap (Sin),Sin
+233,Pap (Pap),Pap,Pap,Pap-08,,1,,8-B,8,8-B:8,8,Pap,8,4,48,15,1.5,V,F,,,pap,0.019,,,Pap (Pap),15Pap
+234,0 (Pap),None,Pap,Pap-08,,2,,8-B,9,8-B:9,8,Pap,8,4,65,0,4,V,F,,,pap,0.116,,,0 (Pap),Pap
+235,Bug (Bug),Bug,Bug,Pap-08,,26,,8-B,10,8-B:10,8,Pap,8,4,45,6,19,F,F,,,,,,,Bug (Bug),Bug
+236,0 (Sil),None,Sil,Pap-08,,8,,8-B,11,8-B:11,8,Pap,8,4,44,0,3,V,B,,,sil,2.874,,,0 (Sil),Sil
+237,Pap (Pap),Pap,Pap,Pap-08,,1,,8-B,12,8-B:12,8,Pap,8,4,66,15,2,V,P,,,pap,0.023,,,Pap (Pap),Pap
+238,0 (Sil),None,Sil,Pap-08,,4,,8-B,13,8-B:13,8,Pap,8,4,53,0,2,V,B,,,sil,1.289,,,0 (Sil),Sil
+239,0 (Cen),None,Cen,Pap-08,,24,,8-B,14,8-B:14,8,Pap,8,4,52,0,7,V,B,,,cen,1.462,aphids and regrowth,,0 (Cen),Cen
+240,,,,Pap-08,,,,8-B,15,8-B:15,8,Pap,8,4,,,,,,,,,,,,EMPTY,EMPTY
+241,0 (Pap),None,Pap,Cen-02,,1,,9-A,1,9-A:1,9,Cen,2,2,6,0,6,V,B,,,pap,0.262,,,0 (Pap),Pap
+242,Cen (Pap),Cen,Pap,Cen-02,,1,,9-A,2,9-A:2,9,Cen,2,2,10,13,3,V,F,,,pap,0.02,,,Cen (Pap),Pap
+243,0 (Cen),None,Cen,Cen-02,,26,,9-A,3,9-A:3,9,Cen,2,2,10,0,7,V,F,,,cen,1.874,,,0 (Cen),Cen
+244,Bug (Bug),Bug,Bug,Cen-02,,10,,9-A,4,9-A:4,9,Cen,2,2,7,15,14,F,F,,,bug,0.138,,,Bug (Bug),Bug
+245,0 (Sil),None,Sil,Cen-02,,8,,9-A,5,9-A:5,9,Cen,2,2,2,0,4,V,B,,F,sl,1.741,,,0 (Sil),Sil
+246,,,,Cen-02,,,,9-A,6,9-A:6,9,Cen,2,2,,,,,,,,,,,,EMPTY,EMPTY
+247,Cen (Sin),Cen,Sin,Cen-02,,488,,9-A,7,9-A:7,9,Cen,2,2,22,15,30,F,F,,,sin,15.389,,,Cen (Sin),Sin
+248,Cen (Cen),Cen,Cen,Cen-02,,16,,9-A,8,9-A:8,9,Cen,2,2,13,12,25,FB,F,,,cen,1.585,,,Cen (Cen),Cen
+249,0 (Bug),None,Bug,Cen-02,,14,,9-A,9,9-A:9,9,Cen,2,2,5,0,11,F,F,,,bug,0.201,,,0 (Bug),Bug
+250,Sil (Sil),Sil,Sil,Cen-02,,0,,9-A,10,9-A:10,9,Cen,2,2,6,6,4,V,R,,G,sil,2.911,,,Sil (Sil),Sil
+251,Pap (Pap),Pap,Pap,Cen-02,,1,,9-A,11,9-A:11,9,Cen,2,2,7,15,6,V,F,,,pap,0.108,,,Pap (Pap),Pap
+252,0 (Sil),None,Sil,Cen-02,,0,,9-A,12,9-A:12,9,Cen,2,2,7,0,7,V,B,,G,sil,0.701,,,0 (Sil),Sil
+253,0 (Sin),None,Sin,Cen-02,,229,,9-A,13,9-A:13,9,Cen,2,2,4,0,28,F,F,,,sin,7.612,,,0 (Sin),Sin
+254,Sin (Sin),Sin,Sin,Cen-02,,571,,9-A,14,9-A:14,9,Cen,2,2,6,5,44,F,P,,,sin,25.989,,,Sin (Sin),Sin
+255,0 (Bug),None,Bug,Cen-02,,95,,9-A,15,9-A:15,9,Cen,2,2,4,0,23,F,F,,,bug,1.767,,,0 (Bug),Bug
+256,0 (Sin),None,Sin,Sin-02,,14,,9-B,1,9-B:1,9,Sin,2,2,14,0,36,F,P,,,sin,0.91,,,0 (Sin),Sin
+257,,,,Sin-02,,,,9-B,2,9-B:2,9,Sin,2,2,,0,2,V,,,,,,Missing after inducer harverst,,0 (Cen),GONE
+258,0 (Sil),None,Sil,Sin-02,,25,,9-B,3,9-B:3,9,Sin,2,2,19,0,2,V,R,,,sil,11.733,,,0 (Sil),Sil
+259,Sin (Pap),Sin,Pap,Sin-02,,1,,9-B,4,9-B:4,9,Sin,2,2,26,5,1.5,V,F,,,pap,0.011,,,Sin (Pap),Pap
+260,Sil (Sil),Sil,Sil,Sin-02,,0,Too Few Inducers,9-B,5,9-B:5,9,Sin,2,2,20,0,2,V,R,,G,sil,1.737,Too few inducers,,Sil (Sil),Sil
+261,Cen (Cen),Cen,Cen,Sin-02,,16,,9-B,6,9-B:6,9,Sin,2,2,24,12,9,V,F,,,cen,0.901,,,Cen (Cen),Cen
+262,0 (Bug),None,Bug,Sin-02,,4,,9-B,7,9-B:7,9,Sin,2,2,29,0,1,V,R,,G,bug,0.752,,,0 (Bug),Bug
+263,Sin (Sil),Sin,Sil,Sin-02,,10,,9-B,8,9-B:8,9,Sin,2,2,22,5,1.5,V,R,,F,sil,3.855,,,Sin (Sil),Sil
+264,,,,Sin-02,,,,9-B,9,9-B:9,9,Sin,2,2,,,,,,,,,,,,EMPTY,EMPTY
+265,Sin (Sin),Sin,Sin,Sin-02,,3,,9-B,10,9-B:10,9,Sin,2,2,17,5,18,F,P,,,sin,0.175,,,Sin (Sin),Sin
+266,0 (Pap),None,Pap,Sin-02,,12,,9-B,11,9-B:11,9,Sin,2,2,22,0,6,V,F,,,pap,0.731,,,0 (Pap),Pap
+267,Bug (Bug),Bug,Bug,Sin-02,,10,,9-B,12,9-B:12,9,Sin,2,2,16,15,11,F,F,,,bug,0.105,,,Bug (Bug),Bug
+268,Sin (Cen),Sin,Cen,Sin-02,,9,,9-B,13,9-B:13,9,Sin,2,2,16,5,7,V,F,,,cen,0.292,,,Sin (Cen),Cen
+269,Sin (Bug),Sin,Bug,Sin-02,,21,,9-B,14,9-B:14,9,Sin,2,2,23,5,13,F,F,,,bug,0.391,,,Sin (Bug),Bug
+270,,,,Sin-02,,,,9-B,15,9-B:15,9,Sin,2,2,,0,1,V,,,,,,Missing after inducer harverst,,0 (Pap),GONE
+271,0 (Cen),None,Cen,None-02,,521,,10-A,1,10-A:1,10,None,0,0,0,0,7,V,F,,,cen,46.296,,,0 (Cen),Cen
+272,Cen (Bug),Cen,Bug,None-02,,13,,10-A,2,10-A:2,10,None,0,0,0,10,8,F,F,,,bug,0.121,,,Cen (Bug),Bug
+273,0 (Pap),None,Pap,None-02,,17,,10-A,3,10-A:3,10,None,0,0,0,0,7,V,F,,,pap,4.756,,,0 (Pap),Pap
+274,0 (Cen),None,Cen,None-02,,40,,10-A,4,10-A:4,10,None,0,0,0,0,10,V,F,,,cen,3.604,,,0 (Cen),Cen
+275,Sil (Sin),Sil,Sin,None-02,,186,,10-A,5,10-A:5,10,None,0,0,0,4,20,F,F,,,sin,4.412,,,Sil (Sin),Sin
+276,Sin (Pap),Sin,Pap,None-02,,14,,10-A,6,10-A:6,10,None,0,0,0,5,5.5,V,F,,,pap,3.249,,,Sin (Pap),Pap
+277,0 (Sin),None,Sin,None-02,,651,,10-A,7,10-A:7,10,None,0,0,0,0,44,F,F,,,sin,18.29,,,0 (Sin),Sin
+278,Sin (Bug),Sin,Bug,None-02,,95,,10-A,8,10-A:8,10,None,0,0,0,5,6,V,F,,,bug,1.106,,,Sin (Bug),Bug
+279,Pap (Sin),Pap,Sin,None-02,,512,,10-A,9,10-A:9,10,None,0,0,0,15,36,F,F,,,sin,18.795,,,Pap (Sin),Sin
+280,0 (Bug),None,Bug,None-02,,182,,10-A,10,10-A:10,10,None,0,0,0,0,19,F,F,,,bug,3.727,,,0 (Bug),Bug
+281,0 (Pap),None,Pap,None-02,,45,,10-A,11,10-A:11,10,None,0,0,0,0,7,FB,F,,,pap,8.825,,,0 (Pap),Pap
+282,Pap (Pap),Pap,Pap,None-02,,29,,10-A,12,10-A:12,10,None,0,0,0,15,8,V,F,,,pap,6.835,,,Pap (Pap),Pap
+283,Cen (Sil),Cen,Sil,None-02,,27,,10-A,13,10-A:13,10,None,0,0,0,9,4,V,B,,,sil,17.179,,,Cen (Sil),Sil
+284,Cen (Pap),Cen,Pap,None-02,,59,,10-A,14,10-A:14,10,None,0,0,0,8,5,V,F,,,pap,5.79,,,Cen (Pap),Pap
+285,Sin (Sin),Sin,Sin,None-02,,369,,10-A,15,10-A:15,10,None,0,0,0,5,48,F,F,,,sin,13.64,,,Sin (Sin),Sin
+286,0 (Bug),None,Bug,None-02,,454,,10-B,1,10-B:1,10,None,0,0,0,0,23,F,F,,,bug,6.624,,,0 (Bug),Bug
+287,Cen (Sin),Cen,Sin,None-02,,539,,10-B,2,10-B:2,10,None,0,0,0,15,36,F,F,,,sin,26.986,,,Cen (Sin),Sin
+288,Sin (Cen),Sin,Cen,None-02,,148,,10-B,3,10-B:3,10,None,0,0,0,5,13,V,F,,,cen,8.66,,,Sin (Cen),Cen
+289,0 (Sil),None,Sil,None-02,,68,,10-B,4,10-B:4,10,None,0,0,0,0,5,V,B,,F,sil,13.948,,,0 (Sil),Sil
+290,Bug (Bug),Bug,Bug,None-02,,186,,10-B,5,10-B:5,10,None,0,0,0,15,24,F,F,,,bug,3.108,,,Bug (Bug),Bug
+291,0 (Pap),None,Pap,None-02,,24,,10-B,6,10-B:6,10,None,0,0,0,0,6,FB,F,,,pap,5.641,,,0 (Pap),Pap
+292,Bug (Sil),Bug,Sil,None-02,,16,,10-B,7,10-B:7,10,None,0,0,0,14,2,V,B,,,sil,9.116,,,Bug (Sil),Sil
+293,Pap (Pap),Pap,Pap,None-02,,41,,10-B,8,10-B:8,10,None,0,0,0,15,15,FB,F,,,pap,7.428,,,Pap (Pap),Pap
+294,,,,None-02,,,,10-B,9,10-B:9,10,None,0,0,,,,,,,,,,,,FAIL,FAIL
+295,0 (Cen),None,Cen,None-02,,106,,10-B,10,10-B:10,10,None,0,0,0,0,13,V,F,,,cen,10.269,,,0 (Cen),Cen
+296,Bug (Pap),Bug,Pap,None-02,,14,,10-B,11,10-B:11,10,None,0,0,0,10,6,V,B,,,pap,2.943,,,Bug (Pap),Pap
+297,0 (Cen),None,Cen,None-02,,433,,10-B,12,10-B:12,10,None,0,0,0,0,21,FB,F,,,cen,32.39,,,0 (Cen),Cen
+298,Bug (Sin),Bug,Sin,None-02,,901,,10-B,13,10-B:13,10,None,0,0,0,14,29,F,F,,,sin,40.427,,,Bug (Sin),Sin
+299,Sin (Sil),Sin,Sil,None-02,,30,,10-B,14,10-B:14,10,None,0,0,0,5,5,V,B,,,sil,16.713,,,Sin (Sil),Sil
+300,Pap (Pap),Pap,Pap,None-02,,24,,10-B,15,10-B:15,10,None,0,0,0,15,9.5,V,B,,,pap,3.021,,,Pap (Pap),Pap
+301,0 (Sin),None,Sin,Bug-05,,1194,,11-A,1,11-A:1,11,Bug,5,5,5,0,35,F,F,,,sin,42.351,,,0 (Sin),Sin
+302,0 (Sil),None,Sil,Bug-05,,3,Wrong Focal Spp at Dry Weight,11-A,2,11-A:2,11,Bug,5,5,7,0,3.5,V,V,,,sin,**8.038,** dry weight wrong spp,,0 (Sil),Sil
+303,Bug (Bug),Bug,Bug,Bug-05,,5,,11-A,3,11-A:3,11,Bug,5,5,8,8,6.5,FB,P,,,bug,0.023,,,Bug (Bug),Bug
+304,0 (Cen),None,Cen,Bug-05,,11,,11-A,4,11-A:4,11,Bug,5,5,5,0,9,V,F,,,cen,0.819,,,0 (Cen),Cen
+305,,,,Bug-05,,,,11-A,5,11-A:5,11,Bug,5,5,,,,,,,,,,,,EMPTY,EMPTY
+306,Bug (Pap),Bug,Pap,Bug-05,,4,,11-A,6,11-A:6,11,Bug,5,5,10,6,3,V,B,,,pap,0.255,,,Bug (Pap),Pap
+307,Pap (Pap),Pap,Pap,Bug-05,,27,,11-A,7,11-A:7,11,Bug,5,5,7,15,5,V,B,,,pap,7.72,,,Pap (Pap),Pap
+308,Bug (Sil),Bug,Sil,Bug-05,,0,,11-A,8,11-A:8,11,Bug,5,5,3,10,2,V,V,,G,sil,3.26,,,Bug (Sil),Sil
+309,Bug (Cen),Bug,Cen,Bug-05,,8,,11-A,9,11-A:9,11,Bug,5,5,4,12,5,V,B,,,cen,0.527,,,Bug (Cen),Cen
+310,Sil (Sil),Sil,Sil,Bug-05,,2,,11-A,10,11-A:10,11,Bug,5,5,4,4,4,V,V,,,sil,1.603,,,Sil (Sil),Sil
+311,Bug (Sin),Bug,Sin,Bug-05,,188,,11-A,11,11-A:11,11,Bug,5,5,5,8,31,F,F,,,sin,13.314,,,Bug (Sin),Sin
+312,Cen (Cen),Cen,Cen,Bug-05,,24,,11-A,12,11-A:12,11,Bug,5,5,6,12,12,V,F,,,cen,1.704,,,Cen (Cen),Cen
+313,0 (Bug),None,Bug,Bug-05,,76,,11-A,13,11-A:13,11,Bug,5,5,9,0,4,V,V,,G,bug,3.614,,,0 (Bug),Bug
+314,Sin (Sin),Sin,Sin,Bug-05,,18,,11-A,14,11-A:14,11,Bug,5,5,7,5,23,F,P,,,sin,0.883,,,Sin (Sin),Sin
+315,0 (Pap),None,Pap,Bug-05,,9,,11-A,15,11-A:15,11,Bug,5,5,11,6,4.5,V,F,,,pap,1.048,,,0 (Pap),Pap
+316,0 (Bug),None,Bug,Sin-05,,31,,11-B,1,11-B:1,11,Sin,5,5,16,0,20,F,F,,,,,,,0 (Bug),Bug
+317,,,,Sin-05,,,,11-B,2,11-B:2,11,Sin,5,5,,,,,,,,,,,,FAIL,FAIL
+318,Bug (Bug),Bug,Bug,Sin-05,,3,,11-B,3,11-B:3,11,Sin,5,5,27,15,12,F,P,,,bug,0.032,,,Bug (Bug),Bug
+319,,,,Sin-05,,,,11-B,4,11-B:4,11,Sin,5,5,,,,,,,,,,,,EMPTY,EMPTY
+320,Pap (Pap),Pap,Pap,Sin-05,,2,,11-B,5,11-B:5,11,Sin,5,5,22,15,3,V,P,,,pap,0.106,,,Pap (Pap),Pap
+321,0 (Pap),None,Pap,Sin-05,,9,,11-B,6,11-B:6,11,Sin,5,5,18,0,8,V,F,,,pap,0.623,,,0 (Pap),Pap
+322,Sin (Sin),Sin,Sin,Sin-05,,7,,11-B,7,11-B:7,11,Sin,5,5,31,5,30,F,P,,,sin,0.227,,,Sin (Sin),Sin
+323,0 (Sin),None,Sin,Sin-05,,54,,11-B,8,11-B:8,11,Sin,5,5,29,0,37,F,P,,,sin,1.905,,,0 (Sin),Sin
+324,Sil (Sil),Sil,Sil,Sin-05,,1,,11-B,9,11-B:9,11,Sin,5,5,24,6,4,V,V,,,sil,3.914,,,Sil (Sil),Sil
+325,Sin (Cen),Sin,Cen,Sin-05,,4,,11-B,10,11-B:10,11,Sin,5,5,22,5,8,V,F,,,cen,0.212,,,Sin (Cen),Cen
+326,0 (Sil),None,Sil,Sin-05,,0,,11-B,11,11-B:11,11,Sin,5,5,20,0,2.5,V,V,,G,sil,3.268,,,0 (Sil),Sil
+327,Cen (Cen),Cen,Cen,Sin-05,,4,,11-B,12,11-B:12,11,Sin,5,5,18,0,8,V,B,,,cen,0.201,,,Cen (Cen),Cen
+328,,,,Sin-05,,,,11-B,13,11-B:13,11,Sin,5,5,,,,,,,,,,,,FAIL,FAIL
+329,0 (Cen),None,Cen,Sin-05,,7,,11-B,14,11-B:14,11,Sin,5,5,26,0,13,V,F,,,cen,0.444,,,0 (Cen),Cen
+330,Sin (Pap),Sin,Pap,Sin-05,,8,,11-B,15,11-B:15,11,Sin,5,5,25,5,4,V,P,,,pap,0.886,,,Sin (Pap),Pap
+331,0 (Pap),None,Pap,Sil-01,,65,,12-A,1,12-A:1,12,Sil,1,1,11,0,6,V,B,,,pap,10.95,,,0 (Pap),Pap
+332,Sil (Cen),Sil,Cen,Sil-01,,12,,12-A,2,12-A:2,12,Sil,1,1,10,11,5,V,B,,,cen,0.77,,,Sil (Cen),Cen
+333,Pap (Pap),Pap,Pap,Sil-01,,9,,12-A,3,12-A:3,12,Sil,1,1,9,15,3.5,V,P,,,pap,0.697,,,Pap (Pap),Pap
+334,Sil (Bug),Sil,Bug,Sil-01,,64,,12-A,4,12-A:4,12,Sil,1,1,9,14,16,F,F,,,bug,1.011,,,Sil (Bug),Bug
+335,0 (Sin),None,Sin,Sil-01,,1843,,12-A,5,12-A:5,12,Sil,1,1,5,0,25,F,F,,,sin,64.57,,,0 (Sin),Sin
+336,Sil (Sil),Sil,Sil,Sil-01,,3,,12-A,6,12-A:6,12,Sil,1,1,8,3,2,V,V,,,sil ,1.496,,,Sil (Sil),Sil
+337,Cen (Cen),Cen,Cen,Sil-01,,57,,12-A,7,12-A:7,12,Sil,1,1,10,3,15,V,F,,,cen,4.567,,,Cen (Cen),Cen
+338,Bug (Bug),Bug,Bug,Sil-01,,93,,12-A,8,12-A:8,12,Sil,1,1,7,15,16,F,F,,,bug,1.16,,,Bug (Bug),Bug
+339,0 (Sil),None,Sil,Sil-01,,4,,12-A,9,12-A:9,12,Sil,1,1,10,0,4,V,V,,,sil,1.293,,,0 (Sil),Sil
+340,0 (Cen),None,Cen,Sil-01,,146,,12-A,10,12-A:10,12,Sil,1,1,8,0,15,V,F,,,cen,9.174,,,0 (Cen),Cen
+341,Sin (Sin),Sin,Sin,Sil-01,,16,,12-A,11,12-A:11,12,Sil,1,1,6,5,23,F,P,,,sin,0.352,,,Sin (Sin),Sin
+342,,,,Sil-01,,,,12-A,12,12-A:12,12,Sil,1,1,,,,,,,,,,,,EMPTY,EMPTY
+343,0 (Sin),None,Sin,Sil-01,,693,,12-A,13,12-A:13,12,Sil,1,1,,0,,F,,,,sin,26.98,This was abandoned but should not have been. ,,FAIL,Sin
+344,Sil (Pap),Sil,Pap,Sil-01,,3,,12-A,14,12-A:14,12,Sil,1,1,6,7,4,V,P,,,pap,0.158,,,Sil (Pap),Pap
+345,0 (Bug),None,Bug,Sil-01,,51,,12-A,15,12-A:15,12,Sil,1,1,4,0,16,F,F,,,bug,0.728,,,0 (Bug),Bug
+346,Sin (Sin),Sin,Sin,Cen-01,,287,,12-B,1,12-B:1,12,Cen,1,1,7,4,48,F,F,,,sin,15.432,,,Sin (Sin),Sin
+347,0 (Cen),None,Cen,Cen-01,,56,,12-B,2,12-B:2,12,Cen,1,1,2,0,13,V,F,,,cen,4.608,,,0 (Cen),Cen
+348,Cen (Cen),Cen,Cen,Cen-01,,19,,12-B,3,12-B:3,12,Cen,1,1,4,14,15,V,F,,,cen,1.389,,,Cen (Cen),Cen
+349,0 (Cen),None,Cen,Cen-01,,73,,12-B,4,12-B:4,12,Cen,1,1,3,0,14,V,F,,,cen,8.195,,,0 (Cen),Cen
+350,,,,Cen-01,,,,12-B,5,12-B:5,12,Cen,1,1,,,,,,,,,,,,EMPTY,EMPTY
+351,0 (Pap),None,Pap,Cen-01,,14,,12-B,6,12-B:6,12,Cen,1,1,5,0,10,FB,F,,,pap,2.749,,,0 (Pap),Pap
+352,Pap (Pap),Pap,Pap,Cen-01,,3,,12-B,7,12-B:7,12,Cen,1,1,2,15,4,V,F,,,pap,0.169,,,Pap (Pap),Pap
+353,Bug (Bug),Bug,Bug,Cen-01,,18,,12-B,8,12-B:8,12,Cen,1,1,2,15,20,F,F,,,bug,0.325,,,Bug (Bug),Bug
+354,0 (Sin),None,Sin,Cen-01,,178,,12-B,9,12-B:9,12,Cen,1,1,5,0,44,F,P,,,sin,8.764,,,0 (Sin),Sin
+355,0 (Bug),None,Bug,Cen-01,,94,,12-B,10,12-B:10,12,Cen,1,1,4,0,29,F,F,,,bug,2.132,,,0 (Bug),Bug
+356,Cen (Cen),Cen,Cen,Cen-01,,11,,12-B,11,12-B:11,12,Cen,1,1,6,15,12.5,V,F,,,cen,0.935,,,Cen (Cen),Cen
+357,Sil (Sil),Sil,Sil,Cen-01,,5,,12-B,12,12-B:12,12,Cen,1,1,5,5,3,V,V,,,sil,6.002,,,Sil (Sil),Sil
+358,Cen (Sin),Cen,Sin,Cen-01,,327,,12-B,13,12-B:13,12,Cen,1,1,4,15,42.5,F,P,,,sin,11.989,,,Cen (Sin),Sin
+359,0 (Sil),None,Sil,Cen-01,,21,,12-B,14,12-B:14,12,Cen,1,1,2,0,2,V,V,,F,sil,4.793,,,0 (Sil),Sil
+360,Cen (Cen),Cen,Cen,Cen-01,,18,,12-B,15,12-B:15,12,Cen,1,1,,14,29,FB,F,,,cen,1.56,,,Cen (Cen),Cen
+361,Pap (Pap),Pap,Pap,Bug-04,,4,,13-A,1,13-A:1,13,Bug,4,4,4,15+,5,V,F,,,pap,0.66,,,Pap (Pap),Pap
+362,Bug (Cen),Bug,Cen,Bug-04,,86,,13-A,2,13-A:2,13,Bug,4,4,4,4,15,FB,F,,,cen,7.603,,,Bug (Cen),Cen
+363,Sil (Sil),Sil,Sil,Bug-04,,4,,13-A,3,13-A:3,13,Bug,4,4,3,6,4,V,R,,,sil,0.231,,,Sil (Sil),Sil
+364,Bug (Bug),Bug,Bug,Bug-04,,65,,13-A,4,13-A:4,13,Bug,4,4,5,15,19,F,F,,,bug,1,,,Bug (Bug),Bug
+365,,,,Bug-04,,,,13-A,5,13-A:5,13,Bug,4,4,,,,,,,,,,,,EMPTY,EMPTY
+366,0 (Cen),None,Cen,Bug-04,,39,,13-A,6,13-A:6,13,Bug,4,4,5,0,9,V,F,,,cen,3.422,,,0 (Cen),Cen
+367,0 (Sin),None,Sin,Bug-04,,432,,13-A,7,13-A:7,13,Bug,4,4,7,0,38,F,P,,,sin,20.075,,,0 (Sin),Sin
+368,Cen (Cen),Cen,Cen,Bug-04,,51,,13-A,8,13-A:8,13,Bug,4,4,1,15,15,V,F,,,cen,3.071,Replaced dry weight with orphaned data,,Cen (Cen),Cen
+369,0 (Pap),None,Pap,Bug-04,,4,,13-A,9,13-A:9,13,Bug,4,4,5,0,5.5,V,F,,,pap,0.554,,,0 (Pap),Pap
+370,0 (Sil),None,Sil,Bug-04,,0,,13-A,10,13-A:10,13,Bug,4,4,8,0,3,V,R,,G,sil,4.502,,,0 (Sil),Sil
+371,Bug (Sil),Bug,Sil,Bug-04,,0,,13-A,11,13-A:11,13,Bug,4,4,8,9,2.5,V,R,,G,sil,0.7,,,Bug (Sil),Sil
+372,Sin (Sin),Sin,Sin,Bug-04,,191,,13-A,12,13-A:12,13,Bug,4,4,9,5,35,F,R,,,sin,15.443,,,Sin (Sin),Sin
+373,0 (Bug),None,Bug,Bug-04,,247,,13-A,13,13-A:13,13,Bug,4,4,9,0,17,F,F,,,bug,6.216,,,0 (Bug),Bug
+374,Bug (Sin),Bug,Sin,Bug-04,,690,,13-A,14,13-A:14,13,Bug,4,4,11,9,25,F,P,,,sin,36.911,,,Bug (Sin),Sin
+375,Bug (Pap),Bug,Pap,Bug-04,,75,,13-A,15,13-A:15,13,Bug,4,4,7,3,5,V,F,,,pap,6.482,,,Bug (Pap),Pap
+376,Sil (Cen),Sil,Cen,Sil-04,,101,,13-B,1,13-B:1,13,Sil,4,4,28,4,14,FB,F,,G,cen,7.872,,,Sil (Cen),Cen
+377,0 (Cen),None,Cen,Sil-04,,17,,13-B,2,13-B:2,13,Sil,4,4,24,0,6,V,F,,,cen,1.238,,,0 (Cen),Cen
+378,0 (Bug),None,Bug,Sil-04,,84,,13-B,3,13-B:3,13,Sil,4,4,36,0,19,F,F,,,bug,1.729,,,0 (Bug),Bug
+379,0 (Pap),None,Pap,Sil-04,,4,,13-B,4,13-B:4,13,Sil,4,4,26,0,5,V,F,,,pap,0.768,,,0 (Pap),Pap
+380,0 (Sin),None,Sin,Sil-04,,147,,13-B,5,13-B:5,13,Sil,4,4,17,0,40,F,F,,,sin,60.111,,,0 (Sin),Sin
+381,,,,Sil-04,,,,13-B,6,13-B:6,13,Sil,4,4,,,,,,,,,,,,EMPTY,EMPTY
+382,0 (Sil),None,Sil,Sil-04,,7,,13-B,7,13-B:7,13,Sil,4,4,38,0,6,V,B,,,sil,1.833,,,0 (Sil),Sil
+383,0 (Sil),None,Sil,Sil-04,,3,,13-B,8,13-B:8,13,Sil,4,4,24,0,6,V,F,,,sil,1.61,,,0 (Sil),Sil
+384,,,,Sil-04,,,,13-B,9,13-B:9,13,Sil,4,4,,,,,,,,,,,,FAIL,FAIL
+385,Bug (Bug),Bug,Bug,Sil-04,,3,,13-B,10,13-B:10,13,Sil,4,4,28,15,11,F,F,,,bug,0.031,,,Bug (Bug),Bug
+386,Pap (Pap),Pap,Pap,Sil-04,,8,,13-B,11,13-B:11,13,Sil,4,4,27,15,5,V,F,,,pap,0.62,,,Pap (Pap),Pap
+387,Cen (Cen),Cen,Cen,Sil-04,,26,,13-B,12,13-B:12,13,Sil,4,4,33,13,16,V,F,,,cen,2.932,,,Cen (Cen),Cen
+388,0 (Sin),None,Sin,Sil-04,,94,,13-B,13,13-B:13,13,Sil,4,4,25,0,28,F,P,,,sin,6.039,,,0 (Sin),Sin
+389,Sin (Sin),Sin,Sin,Sil-04,,108,,13-B,14,13-B:14,13,Sil,4,4,28,5,38,F,P,,,sin,6.329,,,Sin (Sin),Sin
+390,0 (Pap),None,Pap,Sil-04,,10,,13-B,15,13-B:15,13,Sil,4,4,18,0,5,V,F,,,pap,0.792,,,0 (Pap),Pap
+391,Sil (Sil),Sil,Sil,None-04,,22,,14-A,1,14-A:1,14,None,0,0,0,4,7,V,F,,F,sil,8.452,,,Sil (Sil),Sil
+392,Cen (Sil),Cen,Sil,None-04,,58,,14-A,2,14-A:2,14,None,0,0,0,13,2,V,B,,F,sil,6.546,,,Cen (Sil),Sil
+393,Sil (Cen),Sil,Cen,None-04,,201,,14-A,3,14-A:3,14,None,0,0,0,15,17,FB,F,,,cen,27.452,,,Sil (Cen),Cen
+394,0 (Sil),None,Sil,None-04,,20,,14-A,4,14-A:4,14,None,0,0,0,0,5,V,B,,,sil,9.209,,,0 (Sil),Sil
+395,Pap (Bug),Pap,Bug,None-04,,137,,14-A,5,14-A:5,14,None,0,0,0,15,9,F,F,,,bug,2.058,,,Pap (Bug),Bug
+396,,,,None-04,,,,14-A,6,14-A:6,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+397,Cen (Pap),Cen,Pap,None-04,,108,,14-A,7,14-A:7,14,None,0,0,0,4,10,V,F,,,pap,31.045,,,Cen (Pap),Pap
+398,,,,None-04,,,,14-A,8,14-A:8,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+399,,,,None-04,,,,14-A,9,14-A:9,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+400,,,,None-04,,,,14-A,10,14-A:10,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+401,0 (Sin),None,Sin,None-04,,1846,,14-A,11,14-A:11,14,None,0,0,0,0,40,S,F,,,sin,90.146,,,0 (Sin),Sin
+402,0 (Bug),None,Bug,None-04,,61,,14-A,12,14-A:12,14,None,0,0,0,0,14,F,F,,,bug,0.804,,,0 (Bug),Bug
+403,Sil (Sin),Sil,Sin,None-04,,265,,14-A,13,14-A:13,14,None,0,0,0,4,49,S,P,,,sin,12.978,,,Sil (Sin),Sin
+404,0 (Pap),None,Pap,None-04,,18,,14-A,14,14-A:14,14,None,0,0,0,0,6,V,F,,,pap,4.342,,,0 (Pap),Pap
+405,Sil (Pap),Sil,Pap,None-04,,16,,14-A,15,14-A:15,14,None,0,0,0,7,6,V,F,,,pap,4.501,,,Sil (Pap),Pap
+406,,,,None-04,,,,14-B,1,14-B:1,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+407,0 (Cen),None,Cen,None-04,,96,,14-B,2,14-B:2,14,None,0,0,0,0,7,V,F,,,cen,7.96,,,0 (Cen),Cen
+408,Bug (Sin),Bug,Sin,None-04,,507,,14-B,3,14-B:3,14,None,0,0,0,15,40,S,F,,,sin,28.58,,,Bug (Sin),Sin
+409,,,,None-04,,,,14-B,4,14-B:4,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+410,Cen (Cen),Cen,Cen,None-04,,165,,14-B,5,14-B:5,14,None,0,0,0,6,15,V,F,,,cen,16.033,,,Cen (Cen),Cen
+411,Bug (Pap),Bug,Pap,None-04,,67,,14-B,6,14-B:6,14,None,0,0,0,15,1,V,B,,,pap,8.228,,,Bug (Pap),Pap
+412,Sin (Sin),Sin,Sin,None-04,,469,,14-B,7,14-B:7,14,None,0,0,0,5,40,F,F,,,sin,20.653,,,Sin (Sin),Sin
+413,0 (Sil),None,Sil,None-04,,12,,14-B,8,14-B:8,14,None,0,0,0,0,7,V,F,,,sil,8.868,,,0 (Sil),Sil
+414,Sin (Pap),Sin,Pap,None-04,,37,,14-B,9,14-B:9,14,None,0,0,0,5,5,V,B,,,pap,9.737,,,Sin (Pap),Pap
+415,,,,None-04,,,,14-B,10,14-B:10,14,None,0,0,,,,,,,,,,,,FAIL,FAIL
+416,Cen (Bug),Cen,Bug,None-04,,67,,14-B,11,14-B:11,14,None,0,0,0,15,14,F,F,,,bug,0.875,,,Cen (Bug),Bug
+417,Cen (Cen),Cen,Cen,None-04,,137,,14-B,12,14-B:12,14,None,0,0,0,15,14,V,F,,,cen,10.051,,,Cen (Cen),Cen
+418,Pap (Pap),Pap,Pap,None-04,,22,,14-B,13,14-B:13,14,None,0,0,0,15+,9,V,F,,,pap,4.635,,,Pap (Pap),Pap
+419,Pap (Cen),Pap,Cen,None-04,,125,,14-B,14,14-B:14,14,None,0,0,0,15+,23,FB,F,,,cen,8.85,,,Pap (Cen),Cen
+420,Bug (Bug),Bug,Bug,None-04,,17,,14-B,15,14-B:15,14,None,0,0,0,10,14,F,F,,,bug,0.277,,,Bug (Bug),Bug
+421,0 (Cen),None,Cen,Bug-01,,265,,15-A,1,15-A:1,15,Bug,1,1,3,0,19,FB,F,,,cen,14.955,,,0 (Cen),Cen
+422,,,,Bug-01,,,,15-A,2,15-A:2,15,Bug,1,1,,,,,,,,,,,,EMPTY,EMPTY
+423,0 (Bug),None,Bug,Bug-01,,285,,15-A,3,15-A:3,15,Bug,1,1,4,0,29,F,F,,,bug,5.582,,,0 (Bug),Bug
+424,0 (Pap),None,Pap,Bug-01,,60,,15-A,4,15-A:4,15,Bug,1,1,1,0,6,V,F,,,pap,4.581,,,0 (Pap),Pap
+425,Pap (Pap),Pap,Pap,Bug-01,,27,,15-A,5,15-A:5,15,Bug,1,1,2,15,8,V,F,,,pap,4.554,,,Pap (Pap),Pap
+426,Bug (Bug),Bug,Bug,Bug-01,,114,,15-A,6,15-A:6,15,Bug,1,1,3,5,25,F,F,,,bug,1.373,,,Bug (Bug),Bug
+427,Bug (Sin),Bug,Sin,Bug-01,,701,,15-A,7,15-A:7,15,Bug,1,1,3,15,39,F,F,,,sin,36.812,,,Bug (Sin),Sin
+428,0 (Sin),None,Sin,Bug-01,,76,,15-A,8,15-A:8,15,Bug,1,1,2,0,5,V,F,,,sin,3.059,,,0 (Sin),Sin
+429,0 (Sil),None,Sil,Bug-01,,0,,15-A,9,15-A:9,15,Bug,1,1,5,0,5,V,B,,G,sil,2.095,,,0 (Sil),Sil
+430,Bug (Pap),Bug,Pap,Bug-01,,36,,15-A,10,15-A:10,15,Bug,1,1,,7,3,V,B,,,pap,4.657,,,Bug (Pap),Pap
+431,0 (Bug),None,Bug,Bug-01,,318,,15-A,11,15-A:11,15,Bug,1,1,3,0,4,F,F,,,bug,5.486,,,0 (Bug),Bug
+432,Sil (Sil),Sil,Sil,Bug-01,,2,,15-A,12,15-A:12,15,Bug,1,1,11,7,5,V,R,,,sil,0.623,,,Sil (Sil),Sil
+433,Cen (Cen),Cen,Cen,Bug-01,,288,,15-A,13,15-A:13,15,Bug,1,1,1,15,18,V,F,,,cen,14.331,,,Cen (Cen),Cen
+434,Sin (Sin),Sin,Sin,Bug-01,,584,,15-A,14,15-A:14,15,Bug,1,1,2,5,48,F,F,,,sin,29.066,,,Sin (Sin),Sin
+435,Bug (Sil),Bug,Sil,Bug-01,,0,,15-A,15,15-A:15,15,Bug,1,1,3,12,4,V,R,,G,sil,1.916,,,Bug (Sil),Sil
+436,0 (Sin),None,Sin,Pap-01,,724,,15-B,1,15-B:1,15,Pap,1,0.5,11,0,30,F,F,,,sin,30.206,,,0 (Sin),Sin
+437,0 (Cen),None,Cen,Pap-01,,29,,15-B,2,15-B:2,15,Pap,1,0.5,8,0,9,V,F,,,cen,1.306,,,0 (Cen),Cen
+438,Cen (Cen),Cen,Cen,Pap-01,,16,,15-B,3,15-B:3,15,Pap,1,0.5,24,13,31,FB,F,,,cen,1.138,,,Cen (Cen),Cen
+439,,,,Pap-01,,,,15-B,4,15-B:4,15,Pap,1,0.5,,,,,,,,,,,,EMPTY,EMPTY
+440,Sin (Sin),Sin,Sin,Pap-01,,22,,15-B,5,15-B:5,15,Pap,1,0.5,10,5,36,F,P,,,sin,1.091,,,Sin (Sin),Sin
+441,Pap (Bug),Pap,Bug,Pap-01,,9,,15-B,6,15-B:6,15,Pap,1,0.5,18,15,9,F,P,,,bug,0.074,,,Pap (Bug),Bug
+442,Pap (Sin),Pap,Sin,Pap-01,,308,,15-B,7,15-B:7,15,Pap,1,0.5,13,15,50,F,P,,,sin,17.363,,,Pap (Sin),Sin
+443,Bug (Bug),Bug,Bug,Pap-01,,90,,15-B,8,15-B:8,15,Pap,1,0.5,14,15,23,F,F,,,bug,1.356,,,Bug (Bug),Bug
+444,0 (Pap),None,Pap,Pap-01,,4,,15-B,9,15-B:9,15,Pap,1,0.5,21,0,5,V,B,,,pap,0.369,,,0 (Pap),Pap
+445,Sil (Sil),Sil,Sil,Pap-01,,0,,15-B,10,15-B:10,15,Pap,1,0.5,20,5,5,V,R,,G,sil,5.631,,,Sil (Sil),Sil
+446,0 (Sil),None,Sil,Pap-01,,3,,15-B,11,15-B:11,15,Pap,1,0.5,13,0,5,V,R,,,sil,4.242,,,0 (Sil),Sil
+447,Pap (Pap),Pap,Pap,Pap-01,,11,,15-B,12,15-B:12,15,Pap,1,0.5,20,15,8,V,F,,,pap,0.774,,,Pap (Pap),Pap
+448,Pap (Cen),Pap,Cen,Pap-01,,5,,15-B,13,15-B:13,15,Pap,1,0.5,14,15,2.5,V,R,,,cen,0.253,,,Pap (Cen),Cen
+449,0 (Bug),None,Bug,Pap-01,,100,,15-B,14,15-B:14,15,Pap,1,0.5,10,0,21,F,F,,,bug,1.39,,,0 (Bug),Bug
+450,Pap (Pap),Pap,Pap,Pap-01,,3,,15-B,15,15-B:15,15,Pap,1,0.5,18,15,4.5,V,F,,,pap,0.135,,,Pap (Pap),Pap
+451,0 (Sin),None,Sin,Pap-03,,1004,,16-A,1,16-A:1,16,Pap,3,1.5,17,0,51,F,F,,,sin,34.395,,,0 (Sin),Sin
+452,Cen (Cen),Cen,Cen,Pap-03,,12,,16-A,2,16-A:2,16,Pap,3,1.5,13,14,8,V,B,,,cen,0.684,,,Cen (Cen),Cen
+453,Sil (Sil),Sil,Sil,Pap-03,,0,,16-A,3,16-A:3,16,Pap,3,1.5,25,5,4,V,V,,G,sil,1.782,,,Sil (Sil),Sil
+454,Pap (Sin),Pap,Sin,Pap-03,,683,,16-A,4,16-A:4,16,Pap,3,1.5,16,15,48,F,F,,,sin,41.649,,,Pap (Sin),Sin
+455,Sin (Sin),Sin,Sin,Pap-03,,522,,16-A,5,16-A:5,16,Pap,3,1.5,17,5,36,F,F,,,sin,22.229,,,Sin (Sin),Sin
+456,0 (Pap),None,Pap,Pap-03,,9,,16-A,6,16-A:6,16,Pap,3,1.5,21,0,6,V,F,,,pap,0.419,,,0 (Pap),Pap
+457,0 (Bug),None,Bug,Pap-03,,40,,16-A,7,16-A:7,16,Pap,3,1.5,13,0,15,F,F,,,bug,0.516,,,0 (Bug),Bug
+458,0 (Cen),None,Cen,Pap-03,,8,,16-A,8,16-A:8,16,Pap,3,1.5,18,0,6,V,F,,,cen,0.377,,,0 (Cen),Cen
+459,Pap (Pap),Pap,Pap,Pap-03,,3,,16-A,9,16-A:9,16,Pap,3,1.5,27,13,7,V,F,,,pap,0.136,,,Pap (Pap),Pap
+460,Bug (Bug),Bug,Bug,Pap-03,,14,,16-A,10,16-A:10,16,Pap,3,1.5,23,8,15,F,P,,,bug,0.166,,,Bug (Bug),Bug
+461,Pap (Pap),Pap,Pap,Pap-03,,2,,16-A,11,16-A:11,16,Pap,3,1.5,30,15,2.5,V,B,,,pap,0.009,,,Pap (Pap),Pap
+462,0 (Sil),None,Sil,Pap-03,,17,,16-A,12,16-A:12,16,Pap,3,1.5,20,0,5,V,V,,,sil,4.871,,,0 (Sil),Sil
+463,,,,Pap-03,,,,16-A,13,16-A:13,16,Pap,3,1.5,,,,,,,,,,,,EMPTY,EMPTY
+464,,,,Pap-03,,,,16-A,14,16-A:14,16,Pap,3,1.5,,7,,,,,,,,,,FAIL,FAIL
+465,Pap (Cen),Pap,Cen,Pap-03,,8,,16-A,15,16-A:15,16,Pap,3,1.5,32,15,5,V,B,,,cen,0.272,,,Pap (Cen),Cen
+466,0 (Sin),None,Sin,Sin-03,,23,,16-B,1,16-B:1,16,Sin,3,3,27,0,24,F,P,,,sin,0.789,,,0 (Sin),Sin
+467,,,,Sin-03,,,,16-B,2,16-B:2,16,Sin,3,3,,,,,,,,,,,,EMPTY,EMPTY
+468,0 (Cen),None,Cen,Sin-03,,17,,16-B,3,16-B:3,16,Sin,3,3,15,0,15,V,F,,,cen,1.063,,,0 (Cen),Cen
+469,Pap (Pap),Pap,Pap,Sin-03,,4,,16-B,4,16-B:4,16,Sin,3,3,22,11,4,V,F,,,pap,0.335,,,Pap (Pap),Pap
+470,Sil (Sil),Sil,Sil,Sin-03,,1,,16-B,5,16-B:5,16,Sin,3,3,10,5,5,V,F,,,sil,2.214,,,Sil (Sil),Sil
+471,Sin (Bug),Sin,Bug,Sin-03,,6,,16-B,6,16-B:6,16,Sin,3,3,18,5,4,V,P,,,bug,0.055,,,Sin (Bug),Bug
+472,0 (Pap),None,Pap,Sin-03,,9,,16-B,7,16-B:7,16,Sin,3,3,23,0,6,V,F,,,pap,0.673,,,0 (Pap),Pap
+473,Sin (Sin),Sin,Sin,Sin-03,,12,,16-B,8,16-B:8,16,Sin,3,3,16,5,27,F,P,,,sin,0.559,,,Sin (Sin),Sin
+474,0 (Bug),None,Bug,Sin-03,,74,,16-B,9,16-B:9,16,Sin,3,3,14,0,21,F,F,,,bug,1.284,,,0 (Bug),Bug
+475,0 (Sin),None,Sin,Sin-03,,17,,16-B,10,16-B:10,16,Sin,3,3,17,0,36,F,P,,,sin,0.84,,,0 (Sin),Sin
+476,Sin (Cen),Sin,Cen,Sin-03,,12,,16-B,11,16-B:11,16,Sin,3,3,19,5,14,V,F,,,cen,0.437,,,Sin (Cen),Cen
+477,Bug (Bug),Bug,Bug,Sin-03,,8,,16-B,12,16-B:12,16,Sin,3,3,12,6,9,V,F,,,bug,0.099,,,Bug (Bug),Bug
+478,0 (Sil),None,Sil,Sin-03,,0,,16-B,13,16-B:13,16,Sin,3,3,16,0,1,V,V,,,,,"Plant was not found but I think it died, it was 1cm on June 1",,0 (Sil),Sil
+479,Cen (Cen),Cen,Cen,Sin-03,,21,,16-B,14,16-B:14,16,Sin,3,3,16,15,13,V,F,,,cen,0.941,,,Cen (Cen),Cen
+480,0 (Pap),None,Pap,Sin-03,,7,,16-B,15,16-B:15,16,Sin,3,3,20,0,4,V,F,,,pap,0.678,,,0 (Pap),Pap
+481,Cen (Cen),Cen,Cen,Sin-07,,3,,17-A,1,17-A:1,17,Sin,7,7,34,15,6,V,B,,,cen,0.127,,,Cen (Cen),Cen
+482,,,,Sin-07,,,,17-A,2,17-A:2,17,Sin,7,7,,,,,,,,,,,,EMPTY,EMPTY
+483,Pap (Pap),Pap,Pap,Sin-07,,3,,17-A,3,17-A:3,17,Sin,7,7,29,15,2,V,V,,,pap,0.035,,,Pap (Pap),Pap
+484,Sin (Pap),Sin,Pap,Sin-07,,3,,17-A,4,17-A:4,17,Sin,7,7,41,5,1.5,V,B,,,pap,0.103,,,Sin (Pap),Pap
+485,,,,Sin-07,,,,17-A,5,17-A:5,17,Sin,7,7,,,,,,,,,,,,FAIL,FAIL
+486,0 (Sin),None,Sin,Sin-07,,6,,17-A,6,17-A:6,17,Sin,7,7,31,0,32,F,P,,,sin,0.278,,,0 (Sin),Sin
+487,Sin (Sin),Sin,Sin,Sin-07,,3,,17-A,7,17-A:7,17,Sin,7,7,33,5,21,F,P,,,sin,0.17,,,Sin (Sin),Sin
+488,0 (Sil),None,Sil,Sin-07,,2,,17-A,8,17-A:8,17,Sin,7,7,30,0,3.5,V,V,,,sil,1.646,,,0 (Sil),Sil
+489,0 (Sil),None,Sil,Sin-07,,0,,17-A,9,17-A:9,17,Sin,7,7,30,0,3,V,V,,G,sil,2.153,,,0 (Sil),Sil
+490,Sin (Cen),Sin,Cen,Sin-07,,6,,17-A,10,17-A:10,17,Sin,7,7,35,5,7,V,F,,,cen,0.348,,,Sin (Cen),Cen
+491,0 (Cen),None,Cen,Sin-07,,12,,17-A,11,17-A:11,17,Sin,7,7,25,0,12,V,F,,,cen,0.429,,,0 (Cen),Cen
+492,Sin (Sil),Sin,Sil,Sin-07,,0,,17-A,12,17-A:12,17,Sin,7,7,32,5,3,V,V,,G,sil,1.946,,,Sin (Sil),Sil
+493,Bug (Bug),Bug,Bug,Sin-07,,3,,17-A,13,17-A:13,17,Sin,7,7,43,14,7,V,P,,,bug,0.028,,,Bug (Bug),Bug
+494,0 (Pap),None,Pap,Sin-07,,1,,17-A,14,17-A:14,17,Sin,7,7,40,0,3,V,F,,,pap,0.042,,,0 (Pap),Pap
+495,Sin (Bug),Sin,Bug,Sin-07,,8,,17-A,15,17-A:15,17,Sin,7,7,27,5,9,F,F,,,bug,0.086,,,Sin (Bug),Bug
+496,Bug (Bug),Bug,Bug,Cen-07,,6,,17-B,1,17-B:1,17,Cen,7,7,9,15,13,F,P,,,bug,0.06,,,Bug (Bug),Bug
+497,0 (Cen),None,Cen,Cen-07,,6,,17-B,2,17-B:2,17,Cen,7,7,19,0,11,V,F,,,cen,0.306,,,0 (Cen),Cen
+498,0 (Bug),None,Bug,Cen-07,,9,,17-B,3,17-B:3,17,Cen,7,7,14,0,17,F,P,,,bug,0.087,,,0 (Bug),Bug
+499,,,,Cen-07,,,,17-B,4,17-B:4,17,Cen,7,7,,,,,,,,,,,,EMPTY,EMPTY
+500,Pap (Pap),Pap,Pap,Cen-07,,1,,17-B,5,17-B:5,17,Cen,7,7,13,14,2.5,V,P,,,pap,0.022,,,Pap (Pap),Pap
+501,0 (Sil),None,Sil,Cen-07,,0,,17-B,6,17-B:6,17,Cen,7,7,18,0,3,V,V,,G,sil,1.172,,,0 (Sil),Sil
+502,Sin (Sin),Sin,Sin,Cen-07,,22,,17-B,7,17-B:7,17,Cen,7,7,10,5,26,F,P,,,sin,1.162,,,Sin (Sin),Sin
+503,Cen (Pap),Cen,Pap,Cen-07,,1,,17-B,8,17-B:8,17,Cen,7,7,9,4,3,V,F,,,pap,0.056,,,Cen (Pap),Pap
+504,0 (Pap),None,Pap,Cen-07,,1,,17-B,9,17-B:9,17,Cen,7,7,13,0,5.5,V,P,,G,pap,0.054,,,0 (Pap),Pap
+505,Sil (Sil),Sil,Sil,Cen-07,,0,,17-B,10,17-B:10,17,Cen,7,7,8,4,2.5,V,V,,G,sil,0.805,,,Sil (Sil),Sil
+506,Cen (Cen),Cen,Cen,Cen-07,,5,,17-B,11,17-B:11,17,Cen,7,7,11,4,9,V,F,,,cen,0.383,,,Cen (Cen),Cen
+507,Cen (Sil),Cen,Sil,Cen-07,,0,,17-B,12,17-B:12,17,Cen,7,7,12,15,2.5,V,V,,G,sil,1.333,Replaced dry weight with orphaned data,,Cen (Sil),Sil
+508,Cen (Sin),Cen,Sin,Cen-07,,1306,,17-B,13,17-B:13,17,Cen,7,7,13,15,25,F,F,,,sin,32.557,,,Cen (Sin),Sin
+509,Cen (Bug),Cen,Bug,Cen-07,,21,,17-B,14,17-B:14,17,Cen,7,7,25,8,15,F,F,,,bug,0.283,,,Cen (Bug),Bug
+510,,,,Cen-07,,,,17-B,15,17-B:15,17,Cen,7,7,,,,,,,,,,,,FAIL,FAIL
+511,Sil (Sil),Sil,Sil,Sil-08,,0,,18-A,1,18-A:1,18,Sil,8,8,27,13,3,V,V,,G,sil,1.196,,,Sil (Sil),Sil
+512,Sil (Bug),Sil,Bug,Sil-08,,39,,18-A,2,18-A:2,18,Sil,8,8,19,6,25,F,P,,,bug,0.814,,,Sil (Bug),Bug
+513,Bug (Bug),Bug,Bug,Sil-08,,21,,18-A,3,18-A:3,18,Sil,8,8,15,15,20,F,F,,,bug,0.289,,,Bug (Bug),Bug
+514,0 (Pap),None,Pap,Sil-08,,8,,18-A,4,18-A:4,18,Sil,8,8,24,0,6,V,F,,,pap,0.74,,,0 (Pap),Pap
+515,,,,Sil-08,,,,18-A,5,18-A:5,18,Sil,8,8,,,,,,,,,,,,EMPTY,EMPTY
+516,Cen (Cen),Cen,Cen,Sil-08,,15,,18-A,6,18-A:6,18,Sil,8,8,13,15,10,V,F,,,cen,1.138,,,Cen (Cen),Cen
+517,0 (Sin),None,Sin,Sil-08,,579,,18-A,7,18-A:7,18,Sil,8,8,22,0,45,F,F,,,sin,29.274,,,0 (Sin),Sin
+518,Pap (Pap),Pap,Pap,Sil-08,,3,,18-A,8,18-A:8,18,Sil,8,8,20,15,6,V,F,,,pap,0.252,,,Pap (Pap),Pap
+519,,,,Sil-08,,,,18-A,9,18-A:9,18,Sil,8,8,,,,,,,,,,,,FAIL,FAIL
+520,0 (Sil),None,Sil,Sil-08,,0,,18-A,10,18-A:10,18,Sil,8,8,18,0,4,V,B,,G,sil,0.252,,,0 (Sil),Sil
+521,0 (Cen),None,Cen,Sil-08,,16,,18-A,11,18-A:11,18,Sil,8,8,21,0,8,V,B,,,cen,0.978,,,0 (Cen),Cen
+522,Sin (Sin),Sin,Sin,Sil-08,,179,,18-A,12,18-A:12,18,Sil,8,8,18,5,36,F,P,,,sin,6.737,,,Sin (Sin),Sin
+523,Sil (Sin),Sil,Sin,Sil-08,,1490,,18-A,13,18-A:13,18,Sil,8,8,9,12,26.5,F,F,,,sin,102.09,,,Sil (Sin),Sin
+524,Sil (Pap),Sil,Pap,Sil-08,,6,,18-A,14,18-A:14,18,Sil,8,8,11,15,3,V,B,,,pap,0.428,,,Sil (Pap),Pap
+525,Sil (Cen),Sil,Cen,Sil-08,,5,,18-A,15,18-A:15,18,Sil,8,8,11,15,14,FB,F,,F,cen,0.292,,,Sil (Cen),Cen
+526,0 (Pap),None,Pap,Sin-08,,4,,18-B,1,18-B:1,18,Sin,8,8,18,0,5,V,F,,,pap,0.166,,,0 (Pap),Pap
+527,0 (Bug),None,Bug,Sin-08,,12,,18-B,2,18-B:2,18,Sin,8,8,38,0,12,F,F,,,bug,0.209,,,0 (Bug),Bug
+528,,,,Sin-08,,,,18-B,3,18-B:3,18,Sin,8,8,,,,,,,,,,,,EMPTY,EMPTY
+529,,,,Sin-08,,,,18-B,4,18-B:4,18,Sin,8,8,,,,,,,,,,,,FAIL,FAIL
+530,Pap (Pap),Pap,Pap,Sin-08,,1,,18-B,5,18-B:5,18,Sin,8,8,29,10,1,V,B,,,pap,0.005,,,Pap (Pap),Pap
+531,0 (Sil),None,Sil,Sin-08,,0,,18-B,6,18-B:6,18,Sin,8,8,44,0,4,V,V,,G,sil,2.217,,,0 (Sil),Sil
+532,,,,Sin-08,,,,18-B,7,18-B:7,18,Sin,8,8,,,,,,,,,,,,FAIL,FAIL
+533,Sin (Cen),Sin,Cen,Sin-08,,7,,18-B,8,18-B:8,18,Sin,8,8,41,5,7,V,F,,,cen,0.38,,,Sin (Cen),Cen
+534,,,,Sin-08,,,,18-B,9,18-B:9,18,Sin,8,8,,,,,,,,,,,,FAIL,FAIL
+535,Sin (Pap),Sin,Pap,Sin-08,,3,,18-B,10,18-B:10,18,Sin,8,8,42,5,3,V,B,,,pap,0.124,,,Sin (Pap),Pap
+536,Sil (Sil),Sil,Sil,Sin-08,,0,,18-B,11,18-B:11,18,Sin,8,8,30,5,2,V,V,,G,sil,1.853,,,Sil (Sil),Sil
+537,0 (Cen),None,Cen,Sin-08,,6,,18-B,12,18-B:12,18,Sin,8,8,31,0,10,V,F,,,cen,0.297,,,0 (Cen),Cen
+538,Sin (Sin),Sin,Sin,Sin-08,,5,,18-B,13,18-B:13,18,Sin,8,8,39,5,22,F,P,,,sin,0.186,,,Sin (Sin),Sin
+539,Bug (Bug),Bug,Bug,Sin-08,,2,,18-B,14,18-B:14,18,Sin,8,8,41,12,8.5,F,P,,,bug,0.012,,,Bug (Bug),Bug
+540,0 (Sin),None,Sin,Sin-08,,8,,18-B,15,18-B:15,18,Sin,8,8,36,0,39,F,P,,G,sin,0.519,,,0 (Sin),Sin
+541,Sil (Sil),Sil,Sil,Bug-07,,9,,19-A,1,19-A:1,19,Bug,7,7,24,15,3,V,R,,,sil,3.434,,,Sil (Sil),Sil
+542,Bug (Cen),Bug,Cen,Bug-07,,76,,19-A,2,19-A:2,19,Bug,7,7,16,15,13,V,F,,,cen,3.819,,,Bug (Cen),Cen
+543,Cen (Cen),Cen,Cen,Bug-07,,57,,19-A,3,19-A:3,19,Bug,7,7,21,11,14,V,F,,,cen,3.213,,,Cen (Cen),Cen
+544,Bug (Pap),Bug,Pap,Bug-07,,9,,19-A,4,19-A:4,19,Bug,7,7,23,15,9,V,F,,,pap,1.137,,,Bug (Pap),Pap
+545,,,,Bug-07,,,,19-A,5,19-A:5,19,Bug,7,7,,,,,,,,,,,,EMPTY,EMPTY
+546,Pap (Pap),Pap,Pap,Bug-07,,1,,19-A,6,19-A:6,19,Bug,7,7,10,15,2,V,P,,,pap,0.062,,,Pap (Pap),Pap
+547,Bug (Sil),Bug,Sil,Bug-07,,0,,19-A,7,19-A:7,19,Bug,7,7,13,15,4,V,R,,G,sil,0.127,,,Bug (Sil),Sil
+548,Sin (Sin),Sin,Sin,Bug-07,,258,,19-A,8,19-A:8,19,Bug,7,7,12,5,54,F,P,,,sin,19.117,,,Sin (Sin),Sin
+549,Bug (Sin),Bug,Sin,Bug-07,,378,,19-A,9,19-A:9,19,Bug,7,7,13,6,44,F,P,,,sin,29.885,,,Bug (Sin),Sin
+550,Bug (Bug),Bug,Bug,Bug-07,,51,,19-A,10,19-A:10,19,Bug,7,7,14,15,28,F,F,,,bug,0.973,,,Bug (Bug),Bug
+551,0 (Sin),None,Sin,Bug-07,,220,,19-A,11,19-A:11,19,Bug,7,7,13,0,29,F,P,,,sin,11.457,,,0 (Sin),Sin
+552,0 (Cen),None,Cen,Bug-07,,38,,19-A,12,19-A:12,19,Bug,7,7,8,0,10,V,F,,,cen,2.625,,,0 (Cen),Cen
+553,0 (Pap),None,Pap,Bug-07,,64,,19-A,13,19-A:13,19,Bug,7,7,28,0,5,V,F,,,pap,10.05,,,0 (Pap),Pap
+554,,,,Bug-07,,,,19-A,14,19-A:14,19,Bug,7,7,,,,,,,,,,,,FAIL,FAIL
+555,0 (Bug),None,Bug,Bug-07,,97,,19-A,15,19-A:15,19,Bug,7,7,11,0,22,V,F,,,bug,1.679,,,0 (Bug),Bug
+556,Sil (Sil),Sil,Sil,Sil-07,,1,,19-B,1,19-B:1,19,Sil,7,7,26,5,5,V,B,,,sil,0.27,,,Sil (Sil),Sil
+557,0 (Pap),None,Pap,Sil-07,,101,,19-B,2,19-B:2,19,Sil,7,7,39,0,8,V,F,,,pap,16.136,,,0 (Pap),Pap
+558,Sin (Sin),Sin,Sin,Sil-07,,44,,19-B,3,19-B:3,19,Sil,7,7,49,5,37,F,P,,,sin,1.933,,,Sin (Sin),Sin
+559,0 (Cen),None,Cen,Sil-07,,14,,19-B,4,19-B:4,19,Sil,7,7,22,0,8,V,F,,,cen,0.823,,,0 (Cen),Cen
+560,0 (Bug),None,Bug,Sil-07,,59,,19-B,5,19-B:5,19,Sil,7,7,23,0,21,F,F,,,bug,0.966,,,0 (Bug),Bug
+561,,,,Sil-07,,,,19-B,6,19-B:6,19,Sil,7,7,,,,,,,,,,,,EMPTY,EMPTY
+562,Pap (Pap),Pap,Pap,Sil-07,,2,,19-B,7,19-B:7,19,Sil,7,7,21,15,4,V,B,,,pap,0.379,,,Pap (Pap),Pap
+563,Sil (Sin),Sil,Sin,Sil-07,,291,,19-B,8,19-B:8,19,Sil,7,7,17,6,44,F,P,,,sin,24.714,,,Sil (Sin),Sin
+564,0 (Sil),None,Sil,Sil-07,,1,,19-B,9,19-B:9,19,Sil,7,7,42,0,4.5,V,B,,,sil,0.27,,,0 (Sil),Sil
+565,Sil (Cen),Sil,Cen,Sil-07,,96,,19-B,10,19-B:10,19,Sil,7,7,12,5,11,V,F,,,cen,9.005,,,Sil (Cen),Cen
+566,Sil (Bug),Sil,Bug,Sil-07,,40,,19-B,11,19-B:11,19,Sil,7,7,19,8,21,F,F,,,bug,0.628,,,Sil (Bug),Bug
+567,Sil (Pap),Sil,Pap,Sil-07,,24,,19-B,12,19-B:12,19,Sil,7,7,28,9,6,V,F,,,pap,1.901,,,Sil (Pap),Pap
+568,Cen (Cen),Cen,Cen,Sil-07,,19,,19-B,13,19-B:13,19,Sil,7,7,32,15,21,V,F,,,cen,1.385,,,Cen (Cen),Cen
+569,Bug (Bug),Bug,Bug,Sil-07,,0,,19-B,14,19-B:14,19,Sil,7,7,21,9,8,F,B DEAD,,,,,Died after induction,,Bug (Bug),Bug dead
+570,0 (Sin),None,Sin,Sil-07,,1756,,19-B,15,19-B:15,19,Sil,7,7,41,0,30,F,F,,,sin,84.404,,,0 (Sin),Sin
+571,Cen (Cen),Cen,Cen,None-05,,46,,20-A,1,20-A:1,20,None,0,0,0,15,21,FB,F,,,cen,2.35,2 plants no toothpick,,Cen (Cen),Cen
+572,,,,None-05,,,,20-A,2,20-A:2,20,None,0,0,,,,,,,,,,s,,FAIL,FAIL
+573,Sil (Sin),Sil,Sin,None-05,,1223,,20-A,3,20-A:3,20,None,0,0,0,7,46,S,F,,,sin,68.805,,,Sil (Sin),Sin
+574,,,,None-05,,,,20-A,4,20-A:4,20,None,0,0,,,,,,,,,,,,FAIL,FAIL
+575,Pap (Pap),Pap,Pap,None-05,,21,,20-A,5,20-A:5,20,None,0,0,0,15,5,V,F,,,pap,3.083,,,Pap (Pap),Pap
+576,,,,None-05,,,,20-A,6,20-A:6,20,None,0,0,,,,,,,,,,,,FAIL,FAIL
+577,0 (Bug),None,Bug,None-05,,255,,20-A,7,20-A:7,20,None,0,0,0,0,18,F,F,,,bug,4.658,,,0 (Bug),Bug
+578,,,,None-05,,,,20-A,8,20-A:8,20,None,0,0,,0,,,,,,,,,,FAIL,FAIL
+579,Bug (Pap),Bug,Pap,None-05,,54,,20-A,9,20-A:9,20,None,0,0,,11,6,V,F,,,pap,11.849,,,Bug (Pap),Pap
+580,Cen (Sin),Cen,Sin,None-05,,1223,,20-A,10,20-A:10,20,None,0,0,0,11,41,S,P,,,sin,42.735,,,Cen (Sin),Sin
+581,0 (Cen),None,Cen,None-05,,75,,20-A,11,20-A:11,20,None,0,0,0,0,9,V,F,,,cen,4.964,,,0 (Cen),Cen
+582,Sin (Cen),Sin,Cen,None-05,,48,,20-A,12,20-A:12,20,None,0,0,0,5,13,V,B,,,cen,2.967,,,Sin (Cen),Cen
+583,Sin (Bug),Sin,Bug,None-05,,102,,20-A,13,20-A:13,20,None,0,0,0,5,9,V,F,,,bug,2.165,,,Sin (Bug),Bug
+584,0 (Sin),None,Sin,None-05,,478,,20-A,14,20-A:14,20,None,0,0,0,0,46,S,F,,,sin,24.974,,,0 (Sin),Sin
+585,0 (Cen),None,Cen,None-05,,87,,20-A,15,20-A:15,20,None,0,0,0,0,10,V,F,,,cen,10.606,,,0 (Cen),Cen
+586,Sin (Sin),Sin,Sin,None-05,,547,,20-B,1,20-B:1,20,None,0,0,0,5,40,S,F,,,sin,29.23,,,Sin (Sin),Sin
+587,Pap (Sin),Pap,Sin,None-05,,166,,20-B,2,20-B:2,20,None,0,0,0,5,20,F,F,,,sin,6.755,,,Pap (Sin),Sin
+588,Pap (Cen),Pap,Cen,None-05,,102,,20-B,3,20-B:3,20,None,0,0,0,15+,11,V,F,,,cen,9.094,Had lots of ants and aphids (june 1),,Pap (Cen),Cen
+589,0 (Pap),None,Pap,None-05,,96,,20-B,4,20-B:4,20,None,0,0,0,0,6,V,F,,,pap,14.711,,,0 (Pap),Pap
+590,Sil (Cen),Sil,Cen,None-05,,58,,20-B,5,20-B:5,20,None,0,0,0,9,4,V,B,,,cen,3.659,,,Sil (Cen),Cen
+591,,,,None-05,,,,20-B,6,20-B:6,20,None,0,0,,5,5,V,,,,,,,,Sin (Pap),FAIL
+592,0 (Sil),None,Sil,None-05,,25,,20-B,7,20-B:7,20,None,0,0,0,0,4,V,B,,F,sil,8.347,,,0 (Sil),Sil
+593,,,,None-05,,,,20-B,8,20-B:8,20,None,0,0,,,,,,,,,,,,FAIL,FAIL
+594,Pap (Sil),Pap,Sil,None-05,,35,,20-B,9,20-B:9,20,None,0,0,0,15,2,V,R,,,sil,11.674,,,Pap (Sil),Sil
+595,Pap (Bug),Pap,Bug,None-05,,23,,20-B,10,20-B:10,20,None,0,0,0,15+,8,F,F,,,bug,0.483,,,Pap (Bug),Bug
+596,Bug (Bug),Bug,Bug,None-05,,10,,20-B,11,20-B:11,20,None,0,0,0,15,11,F,F,,,bug,0.109,,,Bug (Bug),Bug
+597,,,,None-05,,,,20-B,12,20-B:12,20,None,0,0,,,,,,,,,,,,FAIL,FAIL
+598,Bug (Sin),Bug,Sin,None-05,,1659,,20-B,13,20-B:13,20,None,0,0,0,15,35,S,F,,,sin,80.393,,,Bug (Sin),Sin
+599,0 (Cen),None,Cen,None-05,,249,,20-B,14,20-B:14,20,None,0,0,0,0,13,V,B,,,cen,28.677,,,0 (Cen),Cen
+600,Cen (Pap),Cen,Pap,None-05,,29,,20-B,15,20-B:15,20,None,0,0,0,13,7,V,F,,,pap,3.623,,,Cen (Pap),Pap
+601,0 (Bug),None,Bug,Sil-06,,144,,21-A,1,21-A:1,21,Sil,6,6,9,0,11,F,F,,,bug,3.202,,,0 (Bug),Bug
+602,0 (Sil),None,Sil,Sil-06,,0,,21-A,2,21-A:2,21,Sil,6,6,4,0,5,V,V,,F,sil,0.306,,,0 (Sil),Sil
+603,,,,Sil-06,,,,21-A,3,21-A:3,21,Sil,6,6,,,,,,,,,,,,EMPTY,EMPTY
+604,Sil (Sin),Sil,Sin,Sil-06,,248,,21-A,4,21-A:4,21,Sil,6,6,4,9,40,F,P,,,sin,12.037,,,Sil (Sin),Sin
+605,0 (Cen),None,Cen,Sil-06,,60,,21-A,5,21-A:5,21,Sil,6,6,3,0,16,V,F,,,cen,6.578,,,0 (Cen),Cen
+606,Sin (Sin),Sin,Sin,Sil-06,,27,,21-A,6,21-A:6,21,Sil,6,6,2,5,29,F,P,,,sin,0.952,,,Sin (Sin),Sin
+607,Sil (Pap),Sil,Pap,Sil-06,,103,,21-A,7,21-A:7,21,Sil,6,6,5,7,8,V,F,,,pap,15.28,,,Sil (Pap),Pap
+608,0 (Cen),None,Cen,Sil-06,,16,,21-A,8,21-A:8,21,Sil,6,6,4,0,6,V,B,,,cen,1.271,,,0 (Cen),Cen
+609,Sil (Cen),Sil,Cen,Sil-06,,20,,21-A,9,21-A:9,21,Sil,6,6,5,5,7,V,F,,,cen,2.293,,,Sil (Cen),Cen
+610,0 (Pap),None,Pap,Sil-06,,43,,21-A,10,21-A:10,21,Sil,6,6,9,0,7,V,F,,,pap,10.85,,,0 (Pap),Pap
+611,Pap (Pap),Pap,Pap,Sil-06,,74,,21-A,11,21-A:11,21,Sil,6,6,5,15+,5.5,V,B,,,pap,9.835,,,Pap (Pap),Pap
+612,Sil (Sil),Sil,Sil,Sil-06,,2,Too Few Inducers,21-A,12,21-A:12,21,Sil,6,6,7,2,5,V,B,,,sil,0.626,Too few inducers,,Sil (Sil),Sil
+613,0 (Bug),None,Bug,Sil-06,,61,,21-A,13,21-A:13,21,Sil,6,6,8,0,19,F,F,,,bug,0.794,,,0 (Bug),Bug
+614,0 (Sin),None,Sin,Sil-06,,454,,21-A,14,21-A:14,21,Sil,6,6,9,0,42,F,P,,,sin,32.428,,,0 (Sin),Sin
+615,Bug (Bug),Bug,Bug,Sil-06,,6,,21-A,15,21-A:15,21,Sil,6,6,6,8,10,F,P,,,bug,0.068,,,Bug (Bug),Bug
+616,Pap (Sil),Pap,Sil,Pap-06,,0,,21-B,1,21-B:1,21,Pap,6,3,44,15+,3,V,V,,F,sil,1.291,,,Pap (Sil),Sil
+617,,,,Pap-06,,,,21-B,2,21-B:2,21,Pap,6,3,,,,,,,,,,,,EMPTY,EMPTY
+618,0 (Sin),None,Sin,Pap-06,,571,,21-B,3,21-B:3,21,Pap,6,3,31,0,41,F,F,,,sin,40.054,,,0 (Sin),Sin
+619,0 (Pap),None,Pap,Pap-06,,9,,21-B,4,21-B:4,21,Pap,6,3,32,0,6,V,F,,,pap,1.783,2 plants 1 + 9,,0 (Pap),Pap
+620,Sin (Sin),Sin,Sin,Pap-06,,21,,21-B,5,21-B:5,21,Pap,6,3,53,5,35,F,P,,,sin,1.089,,,Sin (Sin),Sin
+621,0 (Sil),None,Sil,Pap-06,,1,,21-B,6,21-B:6,21,Pap,6,3,40,0,3,V,V,,,sil,3.247,,,0 (Sil),Sil
+622,,,,Pap-06,,,,21-B,7,21-B:7,21,Pap,6,3,,10,,,,,,,,,,FAIL,FAIL
+623,,,,Pap-06,,,,21-B,8,21-B:8,21,Pap,6,3,,0,,,,,,,,,,FAIL,FAIL
+624,0 (Cen),None,Cen,Pap-06,,39,,21-B,9,21-B:9,21,Pap,6,3,53,0,15,FB,F,,,cen,3.75,,,0 (Cen),Cen
+625,Bug (Bug),Bug,Bug,Pap-06,,10,,21-B,10,21-B:10,21,Pap,6,3,42,6,15,F,P,,,bug,0.18,,,Bug (Bug),Bug
+626,Cen (Cen),Cen,Cen,Pap-06,,7,,21-B,11,21-B:11,21,Pap,6,3,38,5,8,V,F,,,cen,0.424,,,Cen (Cen),Cen
+627,Pap (Pap),Pap,Pap,Pap-06,,3,,21-B,12,21-B:12,21,Pap,6,3,46,15,5,V,F,,,pap,0.283,,,Pap (Pap),Pap
+628,0 (Sil),None,Sil,Pap-06,,0,,21-B,13,21-B:13,21,Pap,6,3,36,0,4,V,V,,G,sil,1.82,,,0 (Sil),Sil
+629,Pap (Sin),Pap,Sin,Pap-06,,97,,21-B,14,21-B:14,21,Pap,6,3,30,15,46,F,P,,,sin,4.819,,,Pap (Sin),Sin
+630,Pap (Bug),Pap,Bug,Pap-06,,7,,21-B,15,21-B:15,21,Pap,6,3,35,15,14,F,F,,,bug,0.074,,,Pap (Bug),Bug
+631,Bug (Bug),Bug,Bug,None-01,,102,,22-A,1,22-A:1,22,None,0,0,0,10,17,F,F,,,bug,1.62,,,Bug (Bug),Bug
+632,0 (Cen),None,Cen,None-01,,172,,22-A,2,22-A:2,22,None,0,0,0,0,9,V,F,,,cen,13.138,,,0 (Cen),Cen
+633,Cen (Pap),Cen,Pap,None-01,,7,,22-A,3,22-A:3,22,None,0,0,0,15,3,V,F,,,pap,0.84,,,Cen (Pap),Pap
+634,Sin (Pap),Sin,Pap,None-01,,16,,22-A,4,22-A:4,22,None,0,0,0,5,3,V,B,,,pap,4.37,,,Sin (Pap),Pap
+635,Cen (Sin),Cen,Sin,None-01,,595,,22-A,5,22-A:5,22,None,0,0,0,4,25,F,F,,,sin,31.402,,,Cen (Sin),Sin
+636,0 (Pap),None,Pap,None-01,,71,,22-A,6,22-A:6,22,None,0,0,0,0,5,V,F,,,pap,15.301,,,0 (Pap),Pap
+637,Pap (Sin),Pap,Sin,None-01,,514,,22-A,7,22-A:7,22,None,0,0,0,15,38,S,F,,,sin,19.234,Replaced dry weight with orphaned data,,Pap (Sin),Sin
+638,Pap (Pap),Pap,Pap,None-01,,47,,22-A,8,22-A:8,22,None,0,0,0,15,4,V,F,,,pap,3.592,,,Pap (Pap),Pap
+639,Bug (Bug),Bug,Bug,None-01,,117,,22-A,9,22-A:9,22,None,0,0,0,13,16,F,F,,,bug,1.886,,,Bug (Bug),Bug
+640,,,,None-01,,,,22-A,10,22-A:10,22,None,0,0,,5,6,V,,,,,,,,Sin (Bug),FAIL
+641,Bug (Pap),Bug,Pap,None-01,,10,,22-A,11,22-A:11,22,None,0,0,0,12,2,V,B,,,pap,1.874,,,Bug (Pap),Pap
+642,,,,None-01,,,,22-A,12,22-A:12,22,None,0,0,,,,,,,,,,,,FAIL,FAIL
+643,Pap (Pap),Pap,Pap,None-01,,17,,22-A,13,22-A:13,22,None,0,0,0,15,8,V,F,,,pap,3.822,,,Pap (Pap),Pap
+644,,,,None-01,,,,22-A,14,22-A:14,22,None,0,0,,,,,,,,,,,,FAIL,FAIL
+645,0 (Sin),None,Sin,None-01,,1312,,22-A,15,22-A:15,22,None,0,0,0,0,20,S,F,,,sin,81.381,,,0 (Sin),Sin
+646,,,,None-01,,,,22-B,1,22-B:1,22,None,0,0,,5,,,,,,,,,,FAIL,FAIL
+647,Sil (Bug),Sil,Bug,None-01,,206,,22-B,2,22-B:2,22,None,0,0,0,4,20,F,F,,G,bug,4.82,,,Sil (Bug),Bug
+648,Sin (Sin),Sin,Sin,None-01,,213,,22-B,3,22-B:3,22,None,0,0,0,5,37,S,F,,,sin,11.128,,,Sin (Sin),Sin
+649,Sin (Bug),Sin,Bug,None-01,,119,,22-B,4,22-B:4,22,None,0,0,0,5,15,F,F,,,bug,2.709,,,Sin (Bug),Bug
+650,Bug (Bug),Bug,Bug,None-01,,304,,22-B,5,22-B:5,22,None,0,0,0,5,18,F,F,,,bug,5.472,,,Bug (Bug),Bug
+651,0 (Sin),None,Sin,None-01,,328,,22-B,6,22-B:6,22,None,0,0,0,0,25,S,F,,,sin,10.541,,,0 (Sin),Sin
+652,0 (Cen),None,Cen,None-01,,138,,22-B,7,22-B:7,22,None,0,0,0,0,10,V,F,,,cen,11.967,,,0 (Cen),Cen
+653,0 (Pap),None,Pap,None-01,,33,,22-B,8,22-B:8,22,None,0,0,0,0,4,V,F,,,pap,3.069,,,0 (Pap),Pap
+654,Pap (Pap),Pap,Pap,None-01,,9,,22-B,9,22-B:9,22,None,0,0,0,15,3,V,V,,,pap,2.203,,,Pap (Pap),Pap
+655,,,,None-01,,,,22-B,10,22-B:10,22,None,0,0,,0,,,,,,,,,,FAIL,FAIL
+656,Sin (Sin),Sin,Sin,None-01,,623,,22-B,11,22-B:11,22,None,0,0,0,7,35,S,F,,,sin,36.622,,,Sin (Sin),Sin
+657,,,,None-01,,,,22-B,12,22-B:12,22,None,0,0,,0,,,,,,,,,,FAIL,FAIL
+658,,,,None-01,,,,22-B,13,22-B:13,22,None,0,0,0,15,4,V,V,,,,,Missing after inducer harverst,,Pap (Sil),Sil
+659,0 (Pap),None,Pap,None-01,,13,,22-B,14,22-B:14,22,None,0,0,0,0,2,V,F,,,pap,2.873,,,0 (Pap),Pap
+660,,,,None-01,,,,22-B,15,22-B:15,22,None,0,0,0,7,5,V,V,,,,,Wrong Spp,,Sil (Sil),Sil
+661,,,,Sin-04,,,,23-A,1,23-A:1,23,Sin,4,4,,5,,,,,,,,,,FAIL,FAIL
+662,Pap (Pap),Pap,Pap,Sin-04,,23,,23-A,2,23-A:2,23,Sin,4,4,13,15,3,V,B,,,pap,3.672,,,Pap (Pap),Pap
+663,Sin (Pap),Sin,Pap,Sin-04,,2,,23-A,3,23-A:3,23,Sin,4,4,23,5,1,V,B,,,pap,0.081,,,Sin (Pap),Pap
+664,,,,Sin-04,,,,23-A,4,23-A:4,23,Sin,4,4,,,,,,,,,,,,FAIL,FAIL
+665,0 (Sin),None,Sin,Sin-04,,5,,23-A,5,23-A:5,23,Sin,4,4,18,0,33,S,P,,,sin,0.298,,,0 (Sin),Sin
+666,Sin (Sin),Sin,Sin,Sin-04,,8,,23-A,6,23-A:6,23,Sin,4,4,19,5,27,S,P,,,sin,0.421,,,Sin (Sin),Sin
+667,0 (Cen),None,Cen,Sin-04,,13,,23-A,7,23-A:7,23,Sin,4,4,36,0,10,V,F,,,cen,0.643,,,0 (Cen),Cen
+668,0 (Pap),None,Pap,Sin-04,,6,,23-A,8,23-A:8,23,Sin,4,4,17,0,3,V,B,,,pap,0.616,,,0 (Pap),Pap
+669,,,,Sin-04,,,,23-A,9,23-A:9,23,Sin,4,4,,,,,,,,,,,,FAIL,FAIL
+670,0 (Sil),None,Sil,Sin-04,,6,,23-A,10,23-A:10,23,Sin,4,4,28,0,3,V,V,,F,sil,2.286,,,0 (Sil),Sil
+671,,,,Sin-04,,,,23-A,11,23-A:11,23,Sin,4,4,,,,,,,,,,,,FAIL,FAIL
+672,0 (Bug),None,Bug,Sin-04,,23,,23-A,12,23-A:12,23,Sin,4,4,15,0,4,V,F,,,,,,,0 (Bug),Bug
+673,Cen (Cen),Cen,Cen,Sin-04,,5,,23-A,13,23-A:13,23,Sin,4,4,24,11,11,V,V,,,cen,0.344,,,Cen (Cen),Cen
+674,Sin (Bug),Sin,Bug,Sin-04,,6,,23-A,14,23-A:14,23,Sin,4,4,13,5,11,F,F,,,bug,0.13,Heavy weed damage,,Sin (Bug),Bug
+675,,,,Sin-04,,,,23-A,15,23-A:15,23,Sin,4,4,,,,,,,,,,,,FAIL,FAIL
+676,Sil (Sil),Sil,Sil,Cen-04,,5,,23-B,1,23-B:1,23,Cen,4,4,9,5,6,V,B,,F,sil,5.752,,,Sil (Sil),Sil
+677,Cen (Cen),Cen,Cen,Cen-04,,11,,23-B,2,23-B:2,23,Cen,4,4,10,5,16,V,F,,,cen,0.717,,,Cen (Cen),Cen
+678,Bug (Bug),Bug,Bug,Cen-04,,14,,23-B,3,23-B:3,23,Cen,4,4,9,14,21,F,F,,,bug,0.218,,,Bug (Bug),Bug
+679,Cen (Cen),Cen,Cen,Cen-04,,13,,23-B,4,23-B:4,23,Cen,4,4,7,5,20,FB,F,,,cen,0.973,,,Cen (Cen),Cen
+680,0 (Pap),None,Pap,Cen-04,,4,,23-B,5,23-B:5,23,Cen,4,4,7,0,16,FB,F,,,pap,1.457,,,0 (Pap),Pap
+681,0 (Sin),None,Sin,Cen-04,,952,,23-B,6,23-B:6,23,Cen,4,4,11,0,42,S,F,,,sin,49.343,,,0 (Sin),Sin
+682,0 (Sil),None,Sil,Cen-04,,0,,23-B,7,23-B:7,23,Cen,4,4,6,0,4,V,V,,G,sil,0.484,,,0 (Sil),Sil
+683,0 (Bug),None,Bug,Cen-04,,36,,23-B,8,23-B:8,23,Cen,4,4,4,0,22,F,P,,,bug,0.541,,,0 (Bug),Bug
+684,Cen (Pap),Cen,Pap,Cen-04,,20,,23-B,9,23-B:9,23,Cen,4,4,16,5,3,V,B,,,pap,2.97,,,Cen (Pap),Pap
+685,Pap (Pap),Pap,Pap,Cen-04,,0,,23-B,10,23-B:10,23,Cen,4,4,9,15,6,V,P DEAD,,,pap,0.028,Dead,,Pap (Pap),Pap dead
+686,Cen (Cen),Cen,Cen,Cen-04,,10,,23-B,11,23-B:11,23,Cen,4,4,14,15,12,V,F,,,cen,0.895,,,Cen (Cen),Cen
+687,Sin (Sin),Sin,Sin,Cen-04,,8,,23-B,12,23-B:12,23,Cen,4,4,17,5,20,F,P,,,sin,0.218,,,Sin (Sin),Sin
+688,0 (Cen),None,Cen,Cen-04,,8,,23-B,13,23-B:13,23,Cen,4,4,15,0,11,V,F,,,cen,0.44,,,0 (Cen),Cen
+689,Cen (Sin),Cen,Sin,Cen-04,,412,,23-B,14,23-B:14,23,Cen,4,4,11,4,38,S,F,,,sin,16.867,,,Cen (Sin),Sin
+690,,,,Cen-04,,,,23-B,15,23-B:15,23,Cen,4,4,,,,,,,,,,,,EMPTY,EMPTY
+691,Pap (Pap),Pap,Pap,Bug-10,,19,,24-A,1,24-A:1,24,Bug,10,10,12,15,5,V,F,,,pap,2.455,,,Pap (Pap),Pap
+692,Sil (Sil),Sil,Sil,Bug-10,,2,,24-A,2,24-A:2,24,Bug,10,10,28,15,4.5,V,V,,F,sil,4.284,,,Sil (Sil),Sil
+693,0 (Sin),None,Sin,Bug-10,,146,,24-A,3,24-A:3,24,Bug,10,10,22,0,40,F,P,,,sin,7.083,,,0 (Sin),Sin
+694,Sin (Sin),Sin,Sin,Bug-10,,256,,24-A,4,24-A:4,24,Bug,10,10,23,5,39,F,F,,,sin,9.248,,,Sin (Sin),Sin
+695,,,,Bug-10,,,,24-A,5,24-A:5,24,Bug,10,10,,10,2.5,V,,,,,,,,Bug (Cen),EMPTY
+696,,,,Bug-10,,,,24-A,6,24-A:6,24,Bug,10,10,,0,,,,,,,,,,FAIL,FAIL
+697,0 (Bug),None,Bug,Bug-10,,38,,24-A,7,24-A:7,24,Bug,10,10,17,0,23,F,F,,,bug,0.774,,,0 (Bug),Bug
+698,Bug (Sin),Bug,Sin,Bug-10,,815,,24-A,8,24-A:8,24,Bug,10,10,25,13,25.5,F,P,,,sin,38.722,,,Bug (Sin),Sin
+699,Bug (Pap),Bug,Pap,Bug-10,,3,,24-A,9,24-A:9,24,Bug,10,10,15,12,4.5,V,F,,,pap,0.113,,,Bug (Pap),Pap
+700,Bug (Sil),Bug,Sil,Bug-10,,0,,24-A,10,24-A:10,24,Bug,10,10,20,15,2,V,V,,G,sil,0.807,,,Bug (Sil),Sil
+701,,,,Bug-10,,,,24-A,11,24-A:11,24,Bug,10,10,,,,,,,,,,,,EMPTY,EMPTY
+702,Cen (Cen),Cen,Cen,Bug-10,,13,,24-A,12,24-A:12,24,Bug,10,10,17,15,18,V,F,,,cen,0.889,,,Cen (Cen),Cen
+703,0 (Cen),None,Cen,Bug-10,,26,,24-A,13,24-A:13,24,Bug,10,10,15,0,13,V,F,,,cen,2.156,,,0 (Cen),Cen
+704,Bug (Bug),Bug,Bug,Bug-10,,14,,24-A,14,24-A:14,24,Bug,10,10,28,13,16,F,F,,,bug,0.184,,,Bug (Bug),Bug
+705,0 (Pap),None,Pap,Bug-10,,11,,24-A,15,24-A:15,24,Bug,10,10,20,0,7,V,F,,,pap,1.055,,,0 (Pap),Pap
+706,Cen (Cen),Cen,Cen,Pap-10,,9,,24-B,1,24-B:1,24,Pap,10,5,42,15,12,V,F,,,cen,0.517,,,Cen (Cen),Cen
+707,0 (Bug),None,Bug,Pap-10,,14,,24-B,2,24-B:2,24,Pap,10,5,55,0,15,F,F,,,bug,0.226,,,0 (Bug),Bug
+708,0 (Pap),None,Pap,Pap-10,,2,,24-B,3,24-B:3,24,Pap,10,5,70,0,1.5,V,P,,,pap,0.014,,,0 (Pap),Pap
+709,Pap (Cen),Pap,Cen,Pap-10,,11,,24-B,4,24-B:4,24,Pap,10,5,62,5,8,V,F,,,cen,0.439,Replaced dry weight with orphaned data,,Pap (Cen),Cen
+710,0 (Sil),None,Sil,Pap-10,,1,,24-B,5,24-B:5,24,Pap,10,5,78,0,4,V,V,,,sil,1.137,,,0 (Sil),Sil
+711,Pap (Bug),Pap,Bug,Pap-10,,1,,24-B,6,24-B:6,24,Pap,10,5,72,15,4.5,FB,P,,,bug,0.009,,,Pap (Bug),Bug
+712,Sin (Sin),Sin,Sin,Pap-10,,20,,24-B,7,24-B:7,24,Pap,10,5,36,5,34,F,P,,,sin,1.103,,,Sin (Sin),Sin
+713,Pap (Sin),Pap,Sin,Pap-10,,28,,24-B,8,24-B:8,24,Pap,10,5,51,12,47,F,P,,,sin,1.513,,,Pap (Sin),Sin
+714,0 (Cen),None,Cen,Pap-10,,15,,24-B,9,24-B:9,24,Pap,10,5,69,0,5,V,F,,,cen,0.864,,,0 (Cen),Cen
+715,0 (Sil),None,Sil,Pap-10,,0,,24-B,10,24-B:10,24,Pap,10,5,46,0,2.5,V,V,,G,sil,0.077,,,0 (Sil),Sil
+716,Pap (Sil),Pap,Sil,Pap-10,,2,,24-B,11,24-B:11,24,Pap,10,5,58,20,3,V,V,,,sil,1.248,,,Pap (Sil),Sil
+717,Pap (Pap),Pap,Pap,Pap-10,,4,,24-B,12,24-B:12,24,Pap,10,5,72,15,4,V,F,,,pap,0.111,,,Pap (Pap),Pap
+718,Bug (Bug),Bug,Bug,Pap-10,,11,,24-B,13,24-B:13,24,Pap,10,5,68,15,4,V,F,,G,bug,0.292 or 0.589,,,Bug (Bug),Bug
+719,,,,Pap-10,,,,24-B,14,24-B:14,24,Pap,10,5,,,,,,,,,,,,EMPTY,EMPTY
+720,0 (Sin),None,Sin,Pap-10,,99,,24-B,15,24-B:15,24,Pap,10,5,52,0,36,F,P,,,sin,3.17,,,0 (Sin),Sin
+721,0 (Sil),None,Sil,Sil-05,,1,,25-A,1,25-A:1,25,Sil,5,5,53,0,7,V,F,,,sil,0.542,,,0 (Sil),Sil
+722,0 (Cen),None,Cen,Sil-05,,24,,25-A,2,25-A:2,25,Sil,5,5,25,0,9,V,F,,,cen,1.68,,,0 (Cen),Cen
+723,Sil (Sil),Sil,Sil,Sil-05,,,NO POD COUNT,25-A,3,25-A:3,25,Sil,5,5,33,8,3,V,R,,,,,No Harvest data,,Sil (Sil),Sil
+724,,,,Sil-05,,,,25-A,4,25-A:4,25,Sil,5,5,,,,,,,,,,,,FAIL,FAIL
+725,Sil (Pap),Sil,Pap,Sil-05,,10,,25-A,5,25-A:5,25,Sil,5,5,20,7,5,V,F,,,pap,1.211,,,Sil (Pap),Pap
+726,,,,Sil-05,,,,25-A,6,25-A:6,25,Sil,5,5,,,,,,,,,,,,EMPTY,EMPTY
+727,Sin (Sin),Sin,Sin,Sil-05,,139,,25-A,7,25-A:7,25,Sil,5,5,42,5,39,F,P,,,sin,9.592,,,Sin (Sin),Sin
+728,0 (Pap),None,Pap,Sil-05,,41,,25-A,8,25-A:8,25,Sil,5,5,22,0,5,V,F,,,pap,3.447,,,0 (Pap),Pap
+729,0 (Sil),None,Sil,Sil-05,,2,,25-A,9,25-A:9,25,Sil,5,5,21,0,,V,B,,,sil,0.94,,,0 (Sil),Sil
+730,Sil (Sin),Sil,Sin,Sil-05,,396,,25-A,10,25-A:10,25,Sil,5,5,28,4,38,F,P,,,sin,21.957,,,Sil (Sin),Sin
+731,0 (Cen),None,Cen,Sil-05,,5,,25-A,11,25-A:11,25,Sil,5,5,17,0,7,V,F,,,cen,0.306,,,0 (Cen),Cen
+732,0 (Sin),None,Sin,Sil-05,,398,,25-A,12,25-A:12,25,Sil,5,5,16,0,48,F,P,,,sin,28.654,,,0 (Sin),Sin
+733,0 (Bug),None,Bug,Sil-05,,131,,25-A,13,25-A:13,25,Sil,5,5,22,0,8,V,F,,,bug,2.494,,,0 (Bug),Bug
+734,0 (Cen),None,Cen,Sil-05,,14,,25-A,14,25-A:14,25,Sil,5,5,21,0,10,V,F,,,cen,0.861,,,0 (Cen),Cen
+735,Pap (Pap),Pap,Pap,Sil-05,,2,,25-A,15,25-A:15,25,Sil,5,5,18,15,4.5,V,F,,,pap,0.085,,,Pap (Pap),Pap
+736,,,,Cen-05,,,,25-B,1,25-B:1,25,Cen,5,5,,,,,,,,,,,,EMPTY,EMPTY
+737,Cen (Bug),Cen,Bug,Cen-05,,4,,25-B,2,25-B:2,25,Cen,5,5,38,15,14,F,B DEAD,,,bug,0.054,Died,,Cen (Bug),Bug dead
+738,Cen (Cen),Cen,Cen,Cen-05,,7,,25-B,3,25-B:3,25,Cen,5,5,32,15,22,FB,F,,,cen,0.437,,,Cen (Cen),Cen
+739,Sin (Sin),Sin,Sin,Cen-05,,205,,25-B,4,25-B:4,25,Cen,5,5,27,5,49,F,P,,,sin,14.321,,,Sin (Sin),Sin
+740,Cen (Sin),Cen,Sin,Cen-05,,69,,25-B,5,25-B:5,25,Cen,5,5,20,4,46,F,P,,,sin,5.785,,,Cen (Sin),Sin
+741,0 (Bug),None,Bug,Cen-05,,50,,25-B,6,25-B:6,25,Cen,5,5,25,0,5,V,R,,G,bug,3.913,,,0 (Bug),Bug
+742,0 (Pap),None,Pap,Cen-05,,3,,25-B,7,25-B:7,25,Cen,5,5,23,0,7,V,F,,,pap,0.41,,,0 (Pap),Pap
+743,Sil (Sil),Sil,Sil,Cen-05,,15,Too Few Inducers,25-B,8,25-B:8,25,Cen,5,5,29,1,4.5,V,B,,,sil,3.84,Too few inducers,,Sil (Sil),Sil
+744,,,,Cen-05,,,,25-B,9,25-B:9,25,Cen,5,5,,15,1.5,V,,,,,,Missing after inducer harverst,,Cen (Pap),Pap
+745,Cen (Sil),Cen,Sil,Cen-05,,8,,25-B,10,25-B:10,25,Cen,5,5,20,4,4,V,B,,,sil,2.839,,,Cen (Sil),Sil
+746,Bug (Bug),Bug,Bug,Cen-05,,26,,25-B,11,25-B:11,25,Cen,5,5,16,15,22,F,P,,,bug,0.43,,,Bug (Bug),Bug
+747,0 (Sil),None,Sil,Cen-05,,5,,25-B,12,25-B:12,25,Cen,5,5,31,0,3,V,B,,F,sil,1.937,,,0 (Sil),Sil
+748,Pap (Pap),Pap,Pap,Cen-05,,5,,25-B,13,25-B:13,25,Cen,5,5,7,13,9,V,F,,,pap,0.93,,,Pap (Pap),Pap
+749,0 (Sin),None,Sin,Cen-05,,807,,25-B,14,25-B:14,25,Cen,5,5,15,0,51,F,P,,,sin,53.267,,,0 (Sin),Sin
+750,0 (Cen),None,Cen,Cen-05,,35,,25-B,15,25-B:15,25,Cen,5,5,22,0,12,V,F,,,cen,1.499,,,0 (Cen),Cen
+751,Pap (Bug),Pap,Bug,Pap-07,,31,,26-A,1,26-A:1,26,Pap,7,3.5,104,15+,16,F,F,,,bug,0.372,,,Pap (Bug),Bug
+752,0 (Sil),None,Sil,Pap-07,,5,,26-A,2,26-A:2,26,Pap,7,3.5,67,0,4,V,B,,F,sil,1.947,,,0 (Sil),Sil
+753,Pap (Cen),Pap,Cen,Pap-07,,3,,26-A,3,26-A:3,26,Pap,7,3.5,65,15+,11,V,F,,,cen,0.409,,,Pap (Cen),Cen
+754,Sin (Sin),Sin,Sin,Pap-07,,6,,26-A,4,26-A:4,26,Pap,7,3.5,38,5,24,F,P,,,sin,0.206,,,Sin (Sin),Sin
+755,,,,Pap-07,,,,26-A,5,26-A:5,26,Pap,7,3.5,,,,,,,,,,,,FAIL,FAIL
+756,,,,Pap-07,,,,26-A,6,26-A:6,26,Pap,7,3.5,,,,,,,,,,,,EMPTY,EMPTY
+757,0 (Bug),None,Bug,Pap-07,,1,,26-A,7,26-A:7,26,Pap,7,3.5,60,0,2,V,R,,,bug,0.27,,,0 (Bug),Bug
+758,0 (Pap),None,Pap,Pap-07,,7,,26-A,8,26-A:8,26,Pap,7,3.5,41,0,5,V,F,,,pap,0.498,,,0 (Pap),Pap
+759,,,,Pap-07,,,,26-A,9,26-A:9,26,Pap,7,3.5,,,,,,,,,,,,FAIL,FAIL
+760,Sil (Sil),Sil,Sil,Pap-07,,4,,26-A,10,26-A:10,26,Pap,7,3.5,47,6,3,V,B,,,sil,1.493,Had mouse hole near plant (June 1),,Sil (Sil),Sil
+761,Pap (Sin),Pap,Sin,Pap-07,,194,,26-A,11,26-A:11,26,Pap,7,3.5,44,15+,40,S,P,,,sin,14.957,,,Pap (Sin),Sin
+762,Pap (Pap),Pap,Pap,Pap-07,,1,,26-A,12,26-A:12,26,Pap,7,3.5,56,15+,2,V,F,,,pap,0.017,Replaced dry weight with orphaned data,,Pap (Pap),Pap
+763,0 (Sin),None,Sin,Pap-07,,112,,26-A,13,26-A:13,26,Pap,7,3.5,106,0,40,S,P,,,sin,6.145,,,0 (Sin),Sin
+764,0 (Cen),None,Cen,Pap-07,,19,,26-A,14,26-A:14,26,Pap,7,3.5,48,0,6,V,F,,,cen,1.082,,,0 (Cen),Cen
+765,Cen (Cen),Cen,Cen,Pap-07,,7,,26-A,15,26-A:15,26,Pap,7,3.5,48,15,10,V,F,,,cen,0.509,,,Cen (Cen),Cen
+766,Pap (Pap),Pap,Pap,Cen-08,,3,,26-B,1,26-B:1,26,Cen,8,8,21,15,3,V,B,,,pap,0.167,,,Pap (Pap),Pap
+767,Sin (Sin),Sin,Sin,Cen-08,,8,,26-B,2,26-B:2,26,Cen,8,8,37,5,28,S,P,,,sin,0.473,,,Sin (Sin),Sin
+768,Sil (Sil),Sil,Sil,Cen-08,,0,,26-B,3,26-B:3,26,Cen,8,8,44,11,3,V,R,,G,sl,0.874,,,Sil (Sil),Sil
+769,0 (Cen),None,Cen,Cen-08,,9,,26-B,4,26-B:4,26,Cen,8,8,34,0,14,V,F,,,cen,0.628,,,0 (Cen),Cen
+770,,,,Cen-08,,,,26-B,5,26-B:5,26,Cen,8,8,,0,,,,,,,,,,FAIL,FAIL
+771,Cen (Pap),Cen,Pap,Cen-08,,1,,26-B,6,26-B:6,26,Cen,8,8,39,15,6,FB,F,,,pap,0.036,,,Cen (Pap),Pap
+772,Cen (Cen),Cen,Cen,Cen-08,,27,,26-B,7,26-B:7,26,Cen,8,8,30,9,20,FB,F,,,cen,1.317,,,Cen (Cen),Cen
+773,0 (Sin),None,Sin,Cen-08,,242,,26-B,8,26-B:8,26,Cen,8,8,19,0,31,S,P,,,sin,16.868,,,0 (Sin),Sin
+774,Bug (Bug),Bug,Bug,Cen-08,,9,,26-B,9,26-B:9,26,Cen,8,8,38,15,20,F,P,,,bug,0.129,,,Bug (Bug),Bug
+775,,,,Cen-08,,,,26-B,10,26-B:10,26,Cen,8,8,,,,,,,,,,,,FAIL,FAIL
+776,,,,Cen-08,,,,26-B,11,26-B:11,26,Cen,8,8,,,,,,,,,,,,FAIL,FAIL
+777,Cen (Sin),Cen,Sin,Cen-08,,113,,26-B,12,26-B:12,26,Cen,8,8,70,15,46,S,P,,,sin,6.869,,,Cen (Sin),Sin
+778,,,,Cen-08,,,,26-B,13,26-B:13,26,Cen,8,8,,,,,,,,,,,,EMPTY,EMPTY
+779,0 (Pap),None,Pap,Cen-08,,3,,26-B,14,26-B:14,26,Cen,8,8,22,0,5,V,F,,,pap,0.372,,,0 (Pap),Pap
+780,0 (Bug),None,Bug,Cen-08,,16,,26-B,15,26-B:15,26,Cen,8,8,44,0,22,F,P,,,bug,0.22,,,0 (Bug),Bug
+781,0 (Pap),None,Pap,Bug-09,,141,,27-A,1,27-A:1,27,Bug,9,9,14,0,9,V,F,,,pap,26.839,,,0 (Pap),Pap
+782,Bug (Pap),Bug,Pap,Bug-09,,36,,27-A,2,27-A:2,27,Bug,9,9,8,13,4,V,B,,,pap,4.654,,,Bug (Pap),Pap
+783,Bug (Sil),Bug,Sil,Bug-09,,9,,27-A,3,27-A:3,27,Bug,9,9,4,12,0.5,V,V,,F,sil,1.803,,,Bug (Sil),Sil
+784,Sin (Sin),Sin,Sin,Bug-09,,787,,27-A,4,27-A:4,27,Bug,9,9,12,4,51,F,F,,,sin,43.445,,,Sin (Sin),Sin
+785,0 (Cen),None,Cen,Bug-09,,9,,27-A,5,27-A:5,27,Bug,9,9,16,0,10,V,F,,,cen,0.443,,,0 (Cen),Cen
+786,Sil (Sil),Sil,Sil,Bug-09,,4,,27-A,6,27-A:6,27,Bug,9,9,9,3,3,V,V,,,sil,1.885,,,Sil (Sil),Sil
+787,0 (Sil),None,Sil,Bug-09,,0,,27-A,7,27-A:7,27,Bug,9,9,18,0,3,V,V,,G,sil,3.176,,,0 (Sil),Sil
+788,0 (Cen),None,Cen,Bug-09,,24,,27-A,8,27-A:8,27,Bug,9,9,10,0,12,V,F,,,cen,1.233,,,0 (Cen),Cen
+789,Bug (Sin),Bug,Sin,Bug-09,,175,,27-A,9,27-A:9,27,Bug,9,9,14,7,44,F,P,,,sin,9.668,,,Bug (Sin),Sin
+790,0 (Bug),None,Bug,Bug-09,,29,,27-A,10,27-A:10,27,Bug,9,9,20,0,9,F,F,,,bug,0.543,,,0 (Bug),Bug
+791,Bug (Bug),Bug,Bug,Bug-09,,21,,27-A,11,27-A:11,27,Bug,9,9,15,15,22,F,F,,,bug,0.395,,,Bug (Bug),Bug
+792,Bug (Cen),Bug,Cen,Bug-09,,5,,27-A,12,27-A:12,27,Bug,9,9,19,4,7,V,F,,,cen,0.216,,,Bug (Cen),Cen
+793,,,,Bug-09,,,,27-A,13,27-A:13,27,Bug,9,9,,,,,,,,,,,,EMPTY,EMPTY
+794,Pap (Pap),Pap,Pap,Bug-09,,2,,27-A,14,27-A:14,27,Bug,9,9,9,15,4,V,F,,,pap,0.047,,,Pap (Pap),Pap
+795,0 (Sin),None,Sin,Bug-09,,770,,27-A,15,27-A:15,27,Bug,9,9,16,0,39,F,F,,,sin,36.116,,,0 (Sin),Sin
+796,0 (Bug),None,Bug,Cen-10,,10,,27-B,1,27-B:1,27,Cen,10,10,35,0,21,F,P,,,bug,0.182,,,0 (Bug),Bug
+797,Sil (Sil),Sil,Sil,Cen-10,,0,,27-B,2,27-B:2,27,Cen,10,10,40,4,5,V,V,,G,sil,0.114,,,Sil (Sil),Sil
+798,Bug (Bug),Bug,Bug,Cen-10,,3,,27-B,3,27-B:3,27,Cen,10,10,28,15,18,F,P,,,bug,0.045,,,Bug (Bug),Bug
+799,0 (Cen),None,Cen,Cen-10,,36,,27-B,4,27-B:4,27,Cen,10,10,26,0,16,FB,F,,,cen,1.734,Replaced dry weight with orphaned data,,0 (Cen),Cen
+800,Pap (Pap),Pap,Pap,Cen-10,,1,,27-B,5,27-B:5,27,Cen,10,10,24,15,8.5,FB,F,,,pap,0.045,,,Pap (Pap),Pap
+801,Cen (Pap),Cen,Pap,Cen-10,,1,,27-B,6,27-B:6,27,Cen,10,10,32,14,3,V,F,,,pap,0.012,,,Cen (Pap),Pap
+802,,,,Cen-10,,,,27-B,7,27-B:7,27,Cen,10,10,,,,,,,,,,,,EMPTY,EMPTY
+803,Sin (Sin),Sin,Sin,Cen-10,,165,,27-B,8,27-B:8,27,Cen,10,10,33,5,51,F,F,,,sin,6.724,,,Sin (Sin),Sin
+804,Cen (Bug),Cen,Bug,Cen-10,,3,,27-B,9,27-B:9,27,Cen,10,10,31,15,14,F,P,,,bug,0.025,,,Cen (Bug),Bug
+805,0 (Sil),None,Sil,Cen-10,,1,,27-B,10,27-B:10,27,Cen,10,10,28,0,4,V,V,,,sil,1.801,,,0 (Sil),Sil
+806,0 (Pap),None,Pap,Cen-10,,10,,27-B,11,27-B:11,27,Cen,10,10,14,0,4,V,F,,,pap,0.511,,,0 (Pap),Pap
+807,,,,Cen-10,,,,27-B,12,27-B:12,27,Cen,10,10,,,,,,,,sin,**3.706,,,FAIL,FAIL
+808,Cen (Cen),Cen,Cen,Cen-10,,6,,27-B,13,27-B:13,27,Cen,10,10,36,15,16,FB,F,,,cen,0.414,,,Cen (Cen),Cen
+809,0 (Sin),None,Sin,Cen-10,,125,,27-B,14,27-B:14,27,Cen,10,10,38,0,52,F,P,,,sin,6.765,,,0 (Sin),Sin
+810,Cen (Sil),Cen,Sil,Cen-10,,0,,27-B,15,27-B:15,27,Cen,10,10,36,0,3,V,V,,G,sil,1.185,,,Cen (Sil),Sil
+811,0 (Pap),None,Pap,Pap-04,,2,,28-A,1,28-A:1,28,Pap,4,2,39,0,4,V,P,,,pap,0.129,,,0 (Pap),Pap
+812,0 (Sin),None,Sin,Pap-04,,235,,28-A,2,28-A:2,28,Pap,4,2,34,0,34,F,P,,,sin,11.954,,,0 (Sin),Sin
+813,,,,Pap-04,,,,28-A,3,28-A:3,28,Pap,4,2,,,,,,,,,,,,EMPTY,EMPTY
+814,Sin (Sin),Sin,Sin,Pap-04,,484,,28-A,4,28-A:4,28,Pap,4,2,49,4,30,F,P,,,sin,22.431,,,Sin (Sin),Sin
+815,Pap (Pap),Pap,Pap,Pap-04,,1,,28-A,5,28-A:5,28,Pap,4,2,45,15+,7,FB,P,,,pap,0.058,,,Pap (Pap),Pap
+816,Sil (Sil),Sil,Sil,Pap-04,,0,,28-A,6,28-A:6,28,Pap,4,2,47,5,3,V,V,,G,sil,0.505,,,Sil (Sil),Sil
+817,Cen (Cen),Cen,Cen,Pap-04,,28,,28-A,7,28-A:7,28,Pap,4,2,51,15,12,V,F,,,cen,2.005,,,Cen (Cen),Cen
+818,Bug (Bug),Bug,Bug,Pap-04,,11,,28-A,8,28-A:8,28,Pap,4,2,23,4,9,F,F,,,bug,0.211,,,Bug (Bug),Bug
+819,0 (Bug),None,Bug,Pap-04,,207,,28-A,9,28-A:9,28,Pap,4,2,48,0,16,F,F,,,bug,3.344,,,0 (Bug),Bug
+820,Pap (Bug),Pap,Bug,Pap-04,,31,,28-A,10,28-A:10,28,Pap,4,2,25,14,20,F,F,,,bug,0.398,,,Pap (Bug),Bug
+821,Pap (Cen),Pap,Cen,Pap-04,,48,,28-A,11,28-A:11,28,Pap,4,2,41,15,15,V,F,,,cen,4.156,,,Pap (Cen),Cen
+822,0 (Pap),None,Pap,Pap-04,,0,,28-A,12,28-A:12,28,Pap,4,2,39,0,5,V,V,,G,pap,0.409,,,0 (Pap),Pap
+823,Pap (Sin),Pap,Sin,Pap-04,,269,,28-A,13,28-A:13,28,Pap,4,2,31,15+,40,F,P,,,sin,15.059,,,Pap (Sin),Sin
+824,Pap (Sil),Pap,Sil,Pap-04,,0,,28-A,14,28-A:14,28,Pap,4,2,36,15+,3,V,V,,G,sil,1.343,,,Pap (Sil),Sil
+825,0 (Cen),None,Cen,Pap-04,,15,,28-A,15,28-A:15,28,Pap,4,2,35,0,16,FB,F,,,cen,0.691,,,0 (Cen),Cen
+826,Sin (Sin),Sin,Sin,Sil-03,,76,,28-B,1,28-B:1,28,Sil,3,3,17,5,28,F,P,,,sin,3.689,,,Sin (Sin),Sin
+827,0 (Sin),None,Sin,Sil-03,,786,,28-B,2,28-B:2,28,Sil,3,3,10,0,20,F,P,,,sin,25.479,,,0 (Sin),Sin
+828,Sil (Bug),Sil,Bug,Sil-03,,264,,28-B,3,28-B:3,28,Sil,3,3,11,4,17,F,F,,,bug,3.961,,,Sil (Bug),Bug
+829,Cen (Cen),Cen,Cen,Sil-03,,82,,28-B,4,28-B:4,28,Sil,3,3,13,5,16,V,F,,,cen,6.609,,,Cen (Cen),Cen
+830,,,,Sil-03,,,,28-B,5,28-B:5,28,Sil,3,3,,,,,,,,,,,,EMPTY,EMPTY
+831,Sil (Sin),Sil,Sin,Sil-03,,536,,28-B,6,28-B:6,28,Sil,3,3,11,5,44,F,P,,,sin,38.067,,,Sil (Sin),Sin
+832,Sil (Sil),Sil,Sil,Sil-03,,1,,28-B,7,28-B:7,28,Sil,3,3,10,5,3,V,V,,,sil,0.485,,,Sil (Sil),Sil
+833,0 (Cen),None,Cen,Sil-03,,68,,28-B,8,28-B:8,28,Sil,3,3,12,0,19,FB,F,,,cen,5.76,,,0 (Cen),Cen
+834,Sil (Pap),Sil,Pap,Sil-03,,15,,28-B,9,28-B:9,28,Sil,3,3,15,5,15,V,F,,,pap,2.572,,,Sil (Pap),Pap
+835,Pap (Pap),Pap,Pap,Sil-03,,3,,28-B,10,28-B:10,28,Sil,3,3,11,15,4,V,F,,,pap,0.172,,,Pap (Pap),Pap
+836,0 (Sil),None,Sil,Sil-03,,2,,28-B,11,28-B:11,28,Sil,3,3,9,0,6,V,V,,,sil,2.908,,,0 (Sil),Sil
+837,Sil (Cen),Sil,Cen,Sil-03,,111,,28-B,12,28-B:12,28,Sil,3,3,10,5,13,FB,F,,,cen,8.834,,,Sil (Cen),Cen
+838,0 (Pap),None,Pap,Sil-03,,75,,28-B,13,28-B:13,28,Sil,3,3,13,0,6,V,F,,,pap,8.754,,,0 (Pap),Pap
+839,0 (Bug),None,Bug,Sil-03,,260,,28-B,14,28-B:14,28,Sil,3,3,11,0,25,F,F,,,bug,4.444,,,0 (Bug),Bug
+840,Bug (Bug),Bug,Bug,Sil-03,,151,,28-B,15,28-B:15,28,Sil,3,3,7,11,30,F,F,,,bug,2.872,,,Bug (Bug),Bug
+841,,,,Sin-06,,,,29-A,1,29-A:1,29,Sin,6,6,,5,,,,,,,,,,FAIL,FAIL
+842,0 (Bug),None,Bug,Sin-06,,50,,29-A,2,29-A:2,29,Sin,6,6,39,0,8.5,F,F,,,bug,1.432,,,0 (Bug),Bug
+843,Pap (Pap),Pap,Pap,Sin-06,,12,,29-A,3,29-A:3,29,Sin,6,6,39,15,3.5,V,B,,G,pap,1.73,,,Pap (Pap),Pap
+844,Sin (Sin),Sin,Sin,Sin-06,,43,,29-A,4,29-A:4,29,Sin,6,6,49,5,32.5,F,P,,,sin,1.753,,,Sin (Sin),Sin
+845,0 (Pap),None,Pap,Sin-06,,0,,29-A,5,29-A:5,29,Sin,6,6,40,0,2,V,B,,,pap,0.006,Died after induction,,0 (Pap),Pap
+846,,,,Sin-06,,,,29-A,6,29-A:6,29,Sin,6,6,,0,,,,,,,,,,FAIL,FAIL
+847,Sin (Sin),Sin,Sin,Sin-06,,11,,29-A,7,29-A:7,29,Sin,6,6,53,5,29,F,P,,,sin,0.333,,,Sin (Sin),Sin
+848,Sin (Cen),Sin,Cen,Sin-06,,20,,29-A,8,29-A:8,29,Sin,6,6,36,5,10,V,B,,,cen,1.173,,,Sin (Cen),Cen
+849,0 (Sil),None,Sil,Sin-06,,0,,29-A,9,29-A:9,29,Sin,6,6,41,0,4,V,V,,G,sil,3.169,,,0 (Sil),Sil
+850,Sin (Sin),Sin,Sin,Sin-06,,175,,29-A,10,29-A:10,29,Sin,6,6,37,5,40,F,P,,,sin,6.372,,,Sin (Sin),Sin
+851,Cen (Cen),Cen,Cen,Sin-06,,19,,29-A,11,29-A:11,29,Sin,6,6,31,13,16,V,F,,,cen,0.8,,,Cen (Cen),Cen
+852,0 (Sin),None,Sin,Sin-06,,4,,29-A,12,29-A:12,29,Sin,6,6,51,0,25,F,P,,,sin,0.141,,,0 (Sin),Sin
+853,,,,Sin-06,,,,29-A,13,29-A:13,29,Sin,6,6,,,,,,,,,,,,EMPTY,EMPTY
+854,Bug (Bug),Bug,Bug,Sin-06,,4,,29-A,14,29-A:14,29,Sin,6,6,12,15,8,F,P,,,bug,0.04,,,Bug (Bug),Bug
+855,0 (Cen),None,Cen,Sin-06,,12,,29-A,15,29-A:15,29,Sin,6,6,30,0,14,V,F,,,cen,0.657,,,0 (Cen),Cen
+856,0 (Cen),None,Cen,Cen-06,,6,,29-B,1,29-B:1,29,Cen,6,6,22,0,12.5,V,F,,,cen,0.355,,,0 (Cen),Cen
+857,Sil (Sil),Sil,Sil,Cen-06,,7,,29-B,2,29-B:2,29,Cen,6,6,23,4,6,V,V,,,sil,2.812,,,Sil (Sil),Sil
+858,,,,Cen-06,,,,29-B,3,29-B:3,29,Cen,6,6,,,,,,,,,,,,EMPTY,EMPTY
+859,Pap (Pap),Pap,Pap,Cen-06,,0,,29-B,4,29-B:4,29,Cen,6,6,16,15+,4.5,V,P,,,pap,0.014,Died after induction,,Pap (Pap),Pap
+860,Cen (Sin),Cen,Sin,Cen-06,,4,,29-B,5,29-B:5,29,Cen,6,6,26,11,27.5,F,P,,,sin,0.203,,,Cen (Sin),Sin
+861,0 (Sin),None,Sin,Cen-06,,42,,29-B,6,29-B:6,29,Cen,6,6,19,0,57,F,P,,,sin,1.863,,,0 (Sin),Sin
+862,Cen (Sil),Cen,Sil,Cen-06,,0,,29-B,7,29-B:7,29,Cen,6,6,21,15,2,V,V,,,sil,0.398,,,Cen (Sil),Sil
+863,Bug (Bug),Bug,Bug,Cen-06,,5,,29-B,8,29-B:8,29,Cen,6,6,22,13,11.5,F,P,,,bug,0.054,,,Bug (Bug),Bug
+864,,,,Cen-06,,,,29-B,9,29-B:9,29,Cen,6,6,,,,,,,,,,,,FAIL,FAIL
+865,Sin (Sin),Sin,Sin,Cen-06,,26,,29-B,10,29-B:10,29,Cen,6,6,15,5,44,F,P,,,,,,,Sin (Sin),Sin
+866,0 (Pap),None,Pap,Cen-06,,17,,29-B,11,29-B:11,29,Cen,6,6,22,0,5.5,V,F,,,pap,0.851,,,0 (Pap),Pap
+867,Cen (Cen),Cen,Cen,Cen-06,,33,,29-B,12,29-B:12,29,Cen,6,6,39,13,16,V,F,,,cen,2.526,,,Cen (Cen),Cen
+868,0 (Pap),None,Pap,Cen-06,,1,,29-B,13,29-B:13,29,Cen,6,6,48,0,5,V,P,,,pap,0.062,,,0 (Pap),Pap
+869,Cen (Bug),Cen,Bug,Cen-06,,5,,29-B,14,29-B:14,29,Cen,6,6,23,13,7,V,P,,,bug,0.051,,,Cen (Bug),Bug
+870,0 (Bug),None,Bug,Cen-06,,13,,29-B,15,29-B:15,29,Cen,6,6,28,0,15,F,F,,,bug,0.221,,,0 (Bug),Bug
+871,0 (Bug),None,Bug,Bug-06,,22,,30-A,1,30-A:1,30,Bug,6,6,15,0,19.5,F,P,,,bug,0.374,,,0 (Bug),Bug
+872,0 (Sil),None,Sil,Bug-06,,17,,30-A,2,30-A:2,30,Bug,6,6,16,0,8,V,F,,,sl,4.083,,,0 (Sil),Sil
+873,,,,Bug-06,,,,30-A,3,30-A:3,30,Bug,6,6,,,,,,,,,,,,EMPTY,EMPTY
+874,0 (Sin),None,Sin,Bug-06,,1162,,30-A,4,30-A:4,30,Bug,6,6,13,0,47,F,F,,,sin,65.758,,,0 (Sin),Sin
+875,Bug (Pap),Bug,Pap,Bug-06,,19,,30-A,5,30-A:5,30,Bug,6,6,20,15,4,V,B,,,pap,3.386,,,Bug (Pap),Pap
+876,0 (Cen),None,Cen,Bug-06,,18,,30-A,6,30-A:6,30,Bug,6,6,21,0,13,V,F,,,cen,1.389,,,0 (Cen),Cen
+877,0 (Sil),None,Sil,Bug-06,,1,,30-A,7,30-A:7,30,Bug,6,6,25,0,7.5,V,F,,,sil,3.392,,,0 (Sil),Sil
+878,0 (Pap),None,Pap,Bug-06,,40,,30-A,8,30-A:8,30,Bug,6,6,9,0,8,V,P,,,pap,6.482,,,0 (Pap),Pap
+879,Bug (Cen),Bug,Cen,Bug-06,,15,,30-A,9,30-A:9,30,Bug,6,6,12,10,15,V,F,,,cen,1.175,,,Bug (Cen),Cen
+880,Bug (Sil),Bug,Sil,Bug-06,,3,,30-A,10,30-A:10,30,Bug,6,6,16,15,1.5,V,V,,,sil,1.581,,,Bug (Sil),Sil
+881,Cen (Cen),Cen,Cen,Bug-06,,19,,30-A,11,30-A:11,30,Bug,6,6,13,15,17,V,F,,,cen,0.998,,,Cen (Cen),Cen
+882,0 (Sin),None,Sin,Bug-06,,61,,30-A,12,30-A:12,30,Bug,6,6,11,0,48,F,P,,,sin,4.36,,,0 (Sin),Sin
+883,Pap (Pap),Pap,Pap,Bug-06,,84,,30-A,13,30-A:13,30,Bug,6,6,15,15,9,V,F,,,pap,12.229,,,Pap (Pap),Pap
+884,Bug (Bug),Bug,Bug,Bug-06,,15,,30-A,14,30-A:14,30,Bug,6,6,11,15,7,V,F,,,bug,0.531,,,Bug (Bug),Bug
+885,Sin (Sin),Sin,Sin,Bug-06,,758,,30-A,15,30-A:15,30,Bug,6,6,20,5,42,F,F,,,sin,34.657,,,Sin (Sin),Sin
+886,Cen (Cen),Cen,Cen,Pap-05,,16,,30-B,1,30-B:1,30,Pap,5,2.5,32,15,20,FB,F,,,cen,1.536,,,Cen (Cen),Cen
+887,Pap (Cen),Pap,Cen,Pap-05,,15,,30-B,2,30-B:2,30,Pap,5,2.5,39,15+,13,V,F,,,cen,0.795,,,Pap (Cen),Cen
+888,Bug (Bug),Bug,Bug,Pap-05,,5,,30-B,3,30-B:3,30,Pap,5,2.5,38,15,22,F,P,,,bug,0.084,,,Bug (Bug),Bug
+889,0 (Cen),None,Cen,Pap-05,,17,,30-B,4,30-B:4,30,Pap,5,2.5,41,0,16,FB,F,,,cen,0.876,,,0 (Cen),Cen
+890,Sil (Sil),Sil,Sil,Pap-05,,0,,30-B,5,30-B:5,30,Pap,5,2.5,39,15,5,V,V,,G,sil,1.95,,,Sil (Sil),Sil
+891,0 (Bug),None,Bug,Pap-05,,34,,30-B,6,30-B:6,30,Pap,5,2.5,45,0,18.5,F,F,,,bug,0.515,,,0 (Bug),Bug
+892,Sin (Sin),Sin,Sin,Pap-05,,10,,30-B,7,30-B:7,30,Pap,5,2.5,49,5,35,F,P,,,sin,0.457,,,Sin (Sin),Sin
+893,Pap (Sin),Pap,Sin,Pap-05,,64,,30-B,8,30-B:8,30,Pap,5,2.5,37,15,45,F,P,,,sin,3.708,,,Pap (Sin),Sin
+894,Pap (Pap),Pap,Pap,Pap-05,,7,,30-B,9,30-B:9,30,Pap,5,2.5,41,15+,4,V,F,,,pap,0.224,,,Pap (Pap),Pap
+895,0 (Sil),None,Sil,Pap-05,,0,,30-B,10,30-B:10,30,Pap,5,2.5,42,0,3.5,V,V,,G,sil,0.931,,,0 (Sil),Sil
+896,0 (Sin),None,Sin,Pap-05,,36,,30-B,11,30-B:11,30,Pap,5,2.5,35,0,49.5,F,P,,,sin,1.753,,,0 (Sin),Sin
+897,Pap (Sil),Pap,Sil,Pap-05,,2,,30-B,12,30-B:12,30,Pap,5,2.5,43,15,3,V,V,,,sil,1.526,,,Pap (Sil),Sil
+898,Pap (Bug),Pap,Bug,Pap-05,,6,,30-B,13,30-B:13,30,Pap,5,2.5,53,15,20,F,P,,,bug,0.102,,,Pap (Bug),Bug
+899,,,,Pap-05,,,,30-B,14,30-B:14,30,Pap,5,2.5,,,,,,,,,,,,EMPTY,EMPTY
+900,0 (Pap),None,Pap,Pap-05,,9,,30-B,15,30-B:15,30,Pap,5,2.5,52,0,7,V,F,,,pap,1.396,,,0 (Pap),Pap
