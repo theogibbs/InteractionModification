@@ -595,7 +595,7 @@ beta_draws <- plot_draws %>%
 
 plBetas <- ggplot(beta_draws, aes(x = value)) +
   geom_density(size = 1, color = "blue") + theme_classic() +
-  facet_grid(Focal ~ Resident) +
+  facet_wrap(Focal ~ Resident, scales = "free") +
   labs(x = "Induction", y = "") +
   theme(text = element_text(size=15),
         strip.text.x = element_text(size = 15),
@@ -608,6 +608,65 @@ jpeg("./figs/SIFigBetas.jpeg",
      width = 3500, height = 2500, res = 300)
 plBetas
 dev.off()
+
+# some inducer number analysis
+
+inducer_num_data <- data %>%
+  select(c("Focal", "Inducer", "Inducer.Type", "Resident"))
+inducer_num_data$IndNum <- data$X..inducers.on.May.7..I.hitnk.this.is.how.many.we.left..No.Sin.is.above.7
+inducer_num_data$IndNum[inducer_num_data$IndNum == "15+"] <- 15
+inducer_num_data$IndNum <- as.numeric(inducer_num_data$IndNum)
+
+inducer_num_data <- inducer_num_data %>%
+  filter(Inducer.Type != "None") %>%
+  mutate(Focal = paste("Focal:", Focal))
+
+ggplot(inducer_num_data, aes(x = Inducer.Type, y = IndNum)) +
+  geom_point() + facet_grid(Focal~Resident)
+
+plNumInd <- ggplot(inducer_num_data, aes(x = IndNum)) +
+  geom_histogram(bins = 10, color = "black", fill = "white") +
+  facet_wrap(~toupper(Inducer),
+             nrow = 1) +
+  theme(text = element_text(size=15),
+        strip.text.x = element_text(size = 15),
+        strip.text.y = element_text(size = 15),
+        legend.text=element_text(size = 15),
+        strip.background = element_blank()) +
+  labs(x = "Number of inducers", y = "Count")
+plNumInd
+
+jpeg("./figs/SIFigNumInd.jpeg",
+     width = 3500, height = 1000, res = 300)
+plNumInd
+dev.off()
+
+mean_ind <- inducer_num_data %>%
+  group_by(Inducer) %>%
+  summarise(MeanInd = mean(IndNum))
+
+adj_beta_draws <- beta_draws %>%
+  mutate(NumInd = case_when(substr(Resident, 11, 13) == "BUG" ~ mean_ind$MeanInd[1],
+                            substr(Resident, 11, 13) == "CEN" ~ mean_ind$MeanInd[2],
+                            substr(Resident, 11, 13) == "PAP" ~ mean_ind$MeanInd[3],
+                            substr(Resident, 11, 13) == "SIN" ~ mean_ind$MeanInd[4])) %>%
+  mutate(AdjBeta = value / NumInd)
+
+
+plAdjBetas <- ggplot(adj_beta_draws, aes(x = AdjBeta)) +
+  geom_density(size = 1, color = "blue") + theme_classic() +
+  facet_wrap(Focal ~ Resident, scales = "free") +
+  labs(x = "Induction", y = "") +
+  scale_x_log10() +
+  theme(text = element_text(size=15),
+        strip.text.x = element_text(size = 15),
+        strip.text.y = element_text(size = 15),
+        legend.text=element_text(size = 15),
+        strip.background = element_blank())
+plAdjBetas
+
+
+# alpha analysis
 
 alpha_draws <- plot_draws %>%
   filter(substr(variable, 4, 8) == "alpha") %>%
@@ -809,7 +868,7 @@ plAlphaDiffs <- ggplot(plot_alpha_diff_draws, aes(x = value, y = variable,
         plot.caption.position =  "plot") +
   scale_fill_manual(values=c("white", "lightgrey", "#E69F00", "#56B4E9")) +
   labs(x = "Log Ratio of Induced to Not Induced Interaction Strength", y = "",
-       color = "Induction", title = "Effecting Species") +
+       color = "Induction", title = "Affecting Species") +
   xlim(c(-5, 5))
 plAlphaDiffs
 
@@ -1182,14 +1241,15 @@ plIGR <- ggplot(sub_wide_data, aes(x = Sp1IGR, y = Sp2IGR, color = Induction, sh
         panel.spacing = unit(2, "lines"),
         strip.text = ggtext::element_markdown(),
         legend.text=element_text(size = 12),
-        legend.position = c(0.95, 0.9),
+        legend.position = c(0.95, 0.85),
         legend.background = element_rect(fill = "white", colour = "black"),
         strip.background = element_blank(),
         plot.caption = element_text(hjust = 0, face= "italic"),
         plot.title.position = "plot",
         plot.caption.position =  "plot") +
   scale_color_manual(values=c("darkblue", "darkred")) +
-  guides(colour = guide_legend(override.aes = list(alpha = 1)))
+  guides(colour = guide_legend(override.aes = list(alpha = 1))) +
+  ggtitle("(A)")
 
 ann_text <- data.frame(Sp1IGR = 0.325, Sp2IGR = 600, Induction = "None",
                        SpLabel = "Species 1: *B. arvensis*   \n Species 2: *C. cyanus*")
@@ -1209,10 +1269,6 @@ plIGR <- plIGR + geom_text(data = ann_text, label = "Coexistence", color = "blac
 
 plIGR
 
-jpeg("./figs/Fig5IGR.jpeg",
-     width = 4000, height = 2250, res = 300)
-plIGR
-dev.off()
 
 #grob <- grobTree(textGrob("Coexistence", x=0.775,  y=0.95, hjust=0,
 #                          gp=gpar(col="black", fontsize=10)))
@@ -1312,6 +1368,63 @@ jpeg("./figs/SIFigIGRDiffs.jpeg",
      width = 1750, height = 2500, res = 300)
 plIGRDiffs
 dev.off()
+
+bug_igr_draws <- data.frame(ResBugIGR = rep(0, times = 20000),
+                            NonResBugIGR = rep(0, times = 20000))
+
+res_count <- 0
+non_res_count <- 0
+
+for(cur_foc in toupper(Foc)) {
+  res <- toupper(Foc)
+  res <- res[res != cur_foc]
+  cur_in_foc <- paste("Focal:", cur_foc)
+  res <- paste("Resident:", res)
+  for(cur_res in res) {
+    cur_igr_draws <- igr_diff_draws %>%
+      filter(Focal == cur_in_foc) %>%
+      filter(Resident == cur_res)
+    print(paste("Should be TRUE:", nrow(cur_igr_draws) == 20000))
+    
+    if(cur_res == "Resident: BUG") {
+      bug_igr_draws$ResBugIGR <- bug_igr_draws$ResBugIGR + cur_igr_draws$value
+      res_count <- res_count + 1
+    } else {
+      bug_igr_draws$NonResBugIGR <- bug_igr_draws$NonResBugIGR + cur_igr_draws$value
+      non_res_count <- non_res_count + 1
+    }
+  }
+}
+
+bug_igr_draws$ResBugIGR <- bug_igr_draws$ResBugIGR / res_count
+bug_igr_draws$NonResBugIGR <- bug_igr_draws$NonResBugIGR / non_res_count
+
+melt_bug_igr_draws <- melt(bug_igr_draws) %>%
+  mutate(variable = fct_rev(ifelse(variable == "ResBugIGR",
+                           "B. arvensis",
+                           "Not B. arvensis")))
+
+plBUGIGR <- ggplot(melt_bug_igr_draws,
+       aes(x = value, y = variable, fill = after_stat(x < 0))) +
+  stat_slab(aes(alpha = (after_stat(level))), .width = c(.89, 1)) +
+  scale_alpha_manual(values = c(0.5, 1, 0.5)) +
+  geom_vline(xintercept = 0, alpha = 0.75, linetype = "dashed") +
+  theme(text = element_text(size=15),
+        strip.text.x = element_text(size = 15),
+        strip.text.y = element_text(size = 10),
+        legend.text=element_text(size = 15),
+        legend.position = "none",
+        strip.background = element_blank(),
+        axis.text.x = element_text(angle = 45, vjust = 0.5),
+        axis.text.y = element_text(face = "italic"),
+        plot.caption = element_text(hjust = 0, face= "italic"),
+        plot.title.position = "plot",
+        plot.caption.position =  "plot") +
+  scale_fill_manual(values=c("#E69F00", "#56B4E9")) +
+  labs(x = "Logged Invasion Growth Rate\nAveraged Across Species", y = "Resident") +
+  ggtitle("(B)")
+plBUGIGR
+
 
 ### are the betas related to the alphas?
 
@@ -1678,18 +1791,20 @@ plot_fd_data <- plot_nfd_data %>%
   select(!c("Focal", "Resident"))
 
 plot_decomp_data <- rbind(plot_decomp_data, plot_fd_data) %>%
-  mutate(variable = case_when(variable == "DecompNicheDiff" ~ "(A) Change in average\nniche difference due to plasticity",
-                              variable == "DecompFitDiff" ~ "(B) Niche difference from\nrare species competitive advantage",
-                              variable == "Change in Fitness Difference" ~ "(C) Change in fitness\ndifference due to plasticity"))
+  mutate(variable = case_when(variable == "DecompNicheDiff" ~ "(C) Change in average\nniche difference due to plasticity",
+                              variable == "DecompFitDiff" ~ "(D) Niche difference from\nrare species competitive advantage",
+                              variable == "Change in Fitness Difference" ~ "(E) Change in fitness\ndifference due to plasticity"))
 
 plDecomp <- ggplot(plot_decomp_data, aes(x = value, y = SpInt, fill = after_stat(x < 0))) +
   stat_slab(aes(alpha = (after_stat(level))), .width = c(.89, 1)) +
   scale_alpha_manual(values = c(0.5, 1, 0.5)) +
   facet_grid( ~ variable) +
   geom_vline(xintercept = 0, alpha = 0.75, linetype = "dashed") +
-  theme(text = element_text(size=10),
-        legend.position = "none",
+  theme(text = element_text(size=15),
+        strip.text.x = element_text(size = 15),
+        strip.text.y = element_text(size = 10),
         legend.text=element_text(size = 15),
+        legend.position = "none",
         strip.background = element_blank(),
         axis.text.x = element_text(angle = 45, vjust = 0.5),
         axis.text.y = element_text(face = "italic"),
@@ -1700,9 +1815,10 @@ plDecomp <- ggplot(plot_decomp_data, aes(x = value, y = SpInt, fill = after_stat
   labs(x = "Logged Coexistence Metric", y = "Species Pair")
 plDecomp
 
-jpeg("./figs/Fig6NFDiffs.jpeg",
-     width = 2000, height = 800, res = 300)
-plDecomp
+jpeg("./figs/FigIGRNFD.jpeg",
+     width = 4800, height = 3200, res = 300)
+grid.arrange(plIGR, plBUGIGR,
+             plDecomp, layout_matrix = rbind(c(1, 1, 1, 1, 2, 2), c(3, 3, 3, 3, 3, 3)))
 dev.off()
 
 plot_decomp_data <- decomp_data %>%
@@ -1730,6 +1846,83 @@ plRelDecomp <- ggplot(plot_decomp_data, aes(x = -log(value), y = SpInt, fill = a
        y = "Species Pair") +
   scale_fill_manual(values=c("#E69F00", "#56B4E9"))
 plRelDecomp
+
+# competition patterns
+
+comp_data <- data.frame()
+
+for(cur_foc in Foc) {
+  
+  print(cur_foc)
+  
+  cur_non_alphas <- paste0("nonalpha", toupper(Res))
+  cur_res_alphas <- paste0("resalpha", toupper(Res))
+  cur_foc_alphas <- paste0("focalpha", toupper(Res))
+  
+  cur_draws <- draw_data %>%
+    filter(Focal == cur_foc) %>%
+    dplyr::select(all_of(cur_non_alphas), all_of(cur_res_alphas), all_of(cur_foc_alphas))
+  
+  cur_foc_ratios <- cur_draws[,9:12] / cur_draws[,1:4]
+  colnames(cur_foc_ratios) <- substr(colnames(cur_foc_ratios), 9, 11)
+  
+  cur_intra_ind <- which(colnames(cur_foc_ratios) == toupper(cur_foc))
+  cur_intra_foc_ratios <- cur_foc_ratios[,cur_intra_ind]
+  
+  cur_inter_foc_ratios <- apply(cur_foc_ratios[,-cur_intra_ind], 1, prod)
+  
+  cur_res_ratios <- cur_draws[,5:8] / cur_draws[,1:4]
+  colnames(cur_res_ratios) <- substr(colnames(cur_res_ratios), 9, 11)
+  
+  cur_inter_res_ratios <- apply(cur_res_ratios[,-cur_intra_ind], 1, prod)
+  
+  cur_inter_ratios <- (cur_inter_foc_ratios * cur_inter_res_ratios)^(1/6)
+  
+  cur_com_data <- data.frame(Focal = cur_foc,
+                             Interspecific = cur_inter_ratios,
+                             Intraspecific = cur_intra_foc_ratios)
+  
+  comp_data <- rbind(comp_data, cur_com_data)
+}
+
+melt_comp_data <- comp_data %>%
+  melt(id.vars = c("Focal")) %>%
+  mutate(value = log(value)) %>%
+  mutate(variable = factor(variable, levels = c("Intraspecific",
+                                                "Interspecific"))) %>%
+  mutate(Focal = case_when(Focal == "Bug" ~ "B. arvensis",
+                           Focal == "Cen" ~ "C. cyanus",
+                           Focal == "Pap" ~ "P. rhoeas",
+                           Focal == "Sin" ~ "S. arvensis")) %>%
+  mutate(Focal = factor(Focal, levels = c("S. arvensis",
+                                          "P. rhoeas",
+                                          "C. cyanus",
+                                          "B. arvensis")))
+
+plCompPatterns <- ggplot(melt_comp_data, aes(y = Focal, x = value, fill = after_stat(x < 0))) +
+  stat_slab(aes(alpha = (after_stat(level))), .width = c(.89, 1)) +
+  scale_alpha_manual(values = c(0.5, 1, 0.5)) +
+  facet_grid(~variable) +
+  labs(x = "Average Log Ratio of Induced\nto Not Induced Interaction Strength", y = "") +
+  geom_vline(xintercept = 0, linetype = "dashed", alpha = 0.5) +
+  theme(text = element_text(size=20),
+        legend.position = "none",
+        axis.text.y = element_text(face = "italic"), 
+        legend.text=element_text(size = 20),
+        panel.spacing = unit(2, "lines"),
+        strip.background = element_blank(),
+        plot.caption = element_text(hjust = 0, face= "italic"),
+        plot.title.position = "plot",
+        plot.margin=unit(c(1,1,1,1),"cm"),
+        aspect.ratio = 1,
+        strip.placement = "outside",
+        plot.caption.position =  "plot") +
+  scale_fill_manual(values=c("#E69F00", "#56B4E9")) +
+  ggtitle("(A)")
+plCompPatterns
+
+
+
 
 ### inducer patterns
 
@@ -1828,7 +2021,7 @@ plIndPatterns <- ggplot(melt_ind_data, aes(y = Focal, x = value, fill = after_st
         strip.placement = "outside",
         plot.caption.position =  "plot") +
   scale_fill_manual(values=c("#E69F00", "#56B4E9")) +
-  ggtitle("(A)")
+  ggtitle("(B)")
 plIndPatterns
 
 summary_ind_patterns <- melt_ind_data %>%
@@ -1941,7 +2134,7 @@ plEffectVsComp <- ggplot(ind_int_vs_comp_ab, aes(x = MedianCompAb, y = MedianEff
 plEffectVsComp
 
 jpeg("./figs/Fig4IndPatterns.jpeg",
-     width = 5000, height = 1600, res = 300)
-plot_grid(plIndPatterns, plIndSuscStr, align = "h", axis = "t")
+     width = 2400, height = 3000, res = 300)
+plot_grid(plCompPatterns, plIndPatterns, nrow = 2)
 dev.off()
 
